@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Welcher ist der flächenmäßig größte Ozean der Erde?",
+    "answers": ["Atlantischer Ozean", "Indischer Ozean", "Pazifischer Ozean", "Arktischer Ozean"],
+    "correctAnswer": 2,
+    "explanation": "Der Pazifik (Stiller Ozean) bedeckt etwa ein Drittel der Erdoberfläche."
+  },
+  {
+    "question": "Wer malte die berühmte 'Mona Lisa'?",
+    "answers": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correctAnswer": 2,
+    "explanation": "Das Gemälde von Leonardo da Vinci hängt heute im Louvre in Paris."
+  },
+  {
+    "question": "Was ist die chemische Formel für Wasser?",
+    "answers": ["CO2", "H2O", "O2", "NaCl"],
+    "correctAnswer": 1,
+    "explanation": "Wasser besteht aus zwei Wasserstoffatomen (H) und einem Sauerstoffatom (O)."
+  },
+  {
+    "question": "Wie heißt der höchste Berg der Welt (über dem Meeresspiegel)?",
+    "answers": ["K2", "Kilimandscharo", "Mount Everest", "Mont Blanc"],
+    "correctAnswer": 2,
+    "explanation": "Der Mount Everest im Himalaya ist 8848 Meter hoch."
+  },
+  {
+    "question": "Wer war der erste Mensch auf dem Mond?",
+    "answers": ["Buzz Aldrin", "Juri Gagarin", "Neil Armstrong", "Michael Collins"],
+    "correctAnswer": 2,
+    "explanation": "Neil Armstrong betrat am 21. Juli 1969 als erster Mensch die Mondoberfläche."
+  },
+  {
+    "question": "In welchem Jahr sank die Titanic?",
+    "answers": ["1905", "1912", "1923", "1931"],
+    "correctAnswer": 1,
+    "explanation": "Das Schiff kollidierte in der Nacht vom 14. auf den 15. April 1912 mit einem Eisberg."
+  },
+  {
+    "question": "Welches ist das härteste natürlich vorkommende Mineral?",
+    "answers": ["Gold", "Quarz", "Diamant", "Graphit"],
+    "correctAnswer": 2,
+    "explanation": "Diamant ist auf der Mohs-Härteskala mit dem Wert 10 das härteste Mineral."
+  },
+  {
+    "question": "Was ist die Hauptstadt von Australien?",
+    "answers": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": 2,
+    "explanation": "Canberra ist die Planhauptstadt Australiens, nicht das bekanntere Sydney."
+  },
+  {
+    "question": "Wie heißt die Währung von Japan?",
+    "answers": ["Yuan", "Won", "Yen", "Baht"],
+    "correctAnswer": 2,
+    "explanation": "Der Yen (¥) ist die offizielle Währung Japans."
+  },
+  {
+    "question": "Welches ist das größte Tier, das jemals auf der Erde gelebt hat?",
+    "answers": ["Afrikanischer Elefant", "Tyrannosaurus Rex", "Blauwal", "Megalodon"],
+    "correctAnswer": 2,
+    "explanation": "Der Blauwal kann bis zu 33 Meter lang und 200 Tonnen schwer werden."
+  },
+  {
+    "question": "Wer entdeckte das Penicillin?",
+    "answers": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Robert Koch"],
+    "correctAnswer": 1,
+    "explanation": "Alexander Fleming entdeckte 1928 zufällig die Wirkung des Schimmelpilzes."
+  },
+  {
+    "question": "Wie lauten die ersten drei Ziffern der Zahl Pi (π)?",
+    "answers": ["3,12", "3,14", "3,41", "3,16"],
+    "correctAnswer": 1,
+    "explanation": "Pi beginnt mit 3,14159..."
+  },
+  {
+    "question": "In welchem Land war Nelson Mandela Präsident?",
+    "answers": ["Nigeria", "Kenia", "Südafrika", "Ägypten"],
+    "correctAnswer": 2,
+    "explanation": "Mandela kämpfte gegen die Apartheid und wurde der erste schwarze Präsident Südafrikas."
+  },
+  {
+    "question": "Wo steht das Taj Mahal?",
+    "answers": ["Türkei", "Indien", "Iran", "Pakistan"],
+    "correctAnswer": 1,
+    "explanation": "Das Mausoleum steht in Agra, Indien, und wurde vom Großmogul Shah Jahan erbaut."
+  },
+  {
+    "question": "Wie viele Ringe hat die olympische Flagge?",
+    "answers": ["4", "5", "6", "7"],
+    "correctAnswer": 1,
+    "explanation": "Die 5 Ringe repräsentieren die fünf Kontinente."
+  },
+  {
+    "question": "Wie viele Knochen hat ein erwachsener Mensch (ca.)?",
+    "answers": ["150", "206", "300", "500"],
+    "correctAnswer": 1,
+    "explanation": "Babys haben mehr Knochen, die im Laufe des Wachstums zusammenwachsen, sodass Erwachsene ca. 206 haben."
+  },
+  {
+    "question": "Wer entwickelte die Relativitätstheorie?",
+    "answers": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Stephen Hawking"],
+    "correctAnswer": 2,
+    "explanation": "Albert Einstein veröffentlichte die spezielle und die allgemeine Relativitätstheorie."
+  },
+  {
+    "question": "Wer gründete die Firma Microsoft?",
+    "answers": ["Steve Jobs", "Elon Musk", "Bill Gates", "Mark Zuckerberg"],
+    "correctAnswer": 2,
+    "explanation": "Bill Gates gründete Microsoft 1975 zusammen mit Paul Allen."
+  },
+  {
+    "question": "Auf welchem Kontinent fließt der Amazonas?",
+    "answers": ["Afrika", "Asien", "Südamerika", "Nordamerika"],
+    "correctAnswer": 2,
+    "explanation": "Der Amazonas ist der wasserreichste Fluss der Erde und liegt in Südamerika."
+  },
+  {
+    "question": "Wann begann der Zweite Weltkrieg?",
+    "answers": ["1914", "1939", "1945", "1950"],
+    "correctAnswer": 1,
+    "explanation": "Er begann am 1. September 1939 mit dem Überfall auf Polen."
+  },
+  {
+    "question": "Für welches chemische Element steht das Symbol 'Fe'?",
+    "answers": ["Fluor", "Eisen", "Blei", "Gold"],
+    "correctAnswer": 1,
+    "explanation": "Fe steht für Ferrum (lateinisch für Eisen)."
+  },
+  {
+    "question": "Was ist die Hauptstadt von China?",
+    "answers": ["Shanghai", "Hongkong", "Peking (Beijing)", "Taipeh"],
+    "correctAnswer": 2,
+    "explanation": "Peking ist das politische Zentrum der Volksrepublik China."
+  },
+  {
+    "question": "In welcher Stadt steht die Freiheitsstatue?",
+    "answers": ["Washington D.C.", "Los Angeles", "New York City", "Boston"],
+    "correctAnswer": 2,
+    "explanation": "Sie steht auf Liberty Island im New Yorker Hafen."
+  },
+  {
+    "question": "Welches Land hat die größte Bevölkerung der Welt (Stand 2023/24)?",
+    "answers": ["China", "USA", "Indien", "Russland"],
+    "correctAnswer": 2,
+    "explanation": "Indien hat China inzwischen als bevölkerungsreichstes Land abgelöst."
+  },
+  {
+    "question": "Welches ist der kleinste Kontinent der Erde?",
+    "answers": ["Europa", "Antarktika", "Australien", "Südamerika"],
+    "correctAnswer": 2,
+    "explanation": "Australien ist der kleinste Kontinent."
+  },
+  {
+    "question": "Wer ist der Stifter des Nobelpreises?",
+    "answers": ["Alfred Nobel", "Marie Curie", "Albert Einstein", "Thomas Edison"],
+    "correctAnswer": 0,
+    "explanation": "Der schwedische Erfinder des Dynamits stiftete den Preis."
+  },
+  {
+    "question": "Von wem stammt die Rede 'I Have a Dream'?",
+    "answers": ["John F. Kennedy", "Barack Obama", "Martin Luther King Jr.", "Malcolm X"],
+    "correctAnswer": 2,
+    "explanation": "Martin Luther King hielt die Rede 1963 in Washington."
+  },
+  {
+    "question": "Bei welcher Temperatur siedet Wasser (auf Meereshöhe)?",
+    "answers": ["90 °C", "100 °C", "110 °C", "212 °C"],
+    "correctAnswer": 1,
+    "explanation": "Der Siedepunkt liegt bei 100 Grad Celsius."
+  },
+  {
+    "question": "Aus welchem Land stammt die Band 'The Beatles'?",
+    "answers": ["USA", "Großbritannien", "Irland", "Australien"],
+    "correctAnswer": 1,
+    "explanation": "Die 'Pilzköpfe' stammten aus Liverpool, England."
+  },
+  {
+    "question": "Was ist der Hauptbestandteil von Schokolade?",
+    "answers": ["Vanille", "Milch", "Kakao", "Zucker"],
+    "correctAnswer": 2,
+    "explanation": "Schokolade wird aus der Kakaobohne hergestellt."
+  },
+  {
+    "question": "Wer war der erste Präsident der USA?",
+    "answers": ["Abraham Lincoln", "Thomas Jefferson", "George Washington", "Theodore Roosevelt"],
+    "correctAnswer": 2,
+    "explanation": "George Washington amtierte von 1789 bis 1797."
+  },
+  {
+    "question": "Welcher Planet ist für seine ausgeprägten Ringe bekannt?",
+    "answers": ["Mars", "Jupiter", "Saturn", "Neptun"],
+    "correctAnswer": 2,
+    "explanation": "Saturn hat das deutlichste und bekannteste Ringsystem."
+  },
+  {
+    "question": "Wie war der Vorname von Mozart?",
+    "answers": ["Johann", "Ludwig", "Wolfgang Amadeus", "Franz"],
+    "correctAnswer": 2,
+    "explanation": "Sein voller Name war Joannes Chrysostomus Wolfgangus Theophilus Mozart."
+  },
+  {
+    "question": "Welche Währung nutzt Großbritannien?",
+    "answers": ["Euro", "Dollar", "Pfund Sterling", "Franken"],
+    "correctAnswer": 2,
+    "explanation": "Das Vereinigte Königreich hat den Euro nie eingeführt und nutzt das Pfund."
+  },
+  {
+    "question": "Wofür steht die Abkürzung 'WWW' im Internet?",
+    "answers": ["World Wide Web", "World Web Wares", "Wide World Web", "Web World Wide"],
+    "correctAnswer": 0,
+    "explanation": "Das World Wide Web wurde am CERN entwickelt."
+  },
+  {
+    "question": "Welches ist die größte Trockenwüste der Erde?",
+    "answers": ["Gobi", "Kalahari", "Sahara", "Atacama"],
+    "correctAnswer": 2,
+    "explanation": "Die Sahara ist die größte heiße Wüste (die Antarktis ist technisch gesehen die größte Wüste, aber eine Eiswüste)."
+  },
+  {
+    "question": "Was ist die Hauptstadt von Russland?",
+    "answers": ["St. Petersburg", "Moskau", "Kiew", "Minsk"],
+    "correctAnswer": 1,
+    "explanation": "Moskau ist die Hauptstadt und größte Stadt Russlands."
+  },
+  {
+    "question": "Wer erhielt als erster Mensch zwei Nobelpreise in verschiedenen Kategorien?",
+    "answers": ["Albert Einstein", "Marie Curie", "Max Planck", "Niels Bohr"],
+    "correctAnswer": 1,
+    "explanation": "Sie erhielt Preise in Physik und Chemie."
+  },
+  {
+    "question": "Wie lang ist die Chinesische Mauer ungefähr (inkl. aller Verzweigungen)?",
+    "answers": ["ca. 5.000 km", "ca. 8.000 km", "ca. 21.000 km", "ca. 1.000 km"],
+    "correctAnswer": 2,
+    "explanation": "Neueste Messungen gehen von einer Gesamtlänge von über 21.000 km aus."
+  },
+  {
+    "question": "Wie viele Farben hat ein klassischer Regenbogen?",
+    "answers": ["5", "6", "7", "8"],
+    "correctAnswer": 2,
+    "explanation": "Rot, Orange, Gelb, Grün, Blau, Indigo, Violett."
+  },
+  {
+    "question": "Welche Codenummer hat der Geheimagent James Bond?",
+    "answers": ["001", "007", "009", "0815"],
+    "correctAnswer": 1,
+    "explanation": "Er ist Agent 007 mit der Lizenz zum Töten."
+  },
+  {
+    "question": "Welches Unternehmen brachte 2007 das iPhone auf den Markt?",
+    "answers": ["Samsung", "Nokia", "Microsoft", "Apple"],
+    "correctAnswer": 3,
+    "explanation": "Steve Jobs präsentierte das erste iPhone für Apple."
+  },
+  {
+    "question": "In welchem Land liegt Rom?",
+    "answers": ["Griechenland", "Spanien", "Frankreich", "Italien"],
+    "correctAnswer": 3,
+    "explanation": "Rom ist die Hauptstadt von Italien."
+  },
+  {
+    "question": "Wer gilt als Begründer des Buddhismus?",
+    "answers": ["Dalai Lama", "Siddhartha Gautama", "Ganesha", "Konfuzius"],
+    "correctAnswer": 1,
+    "explanation": "Siddhartha Gautama wurde nach seiner Erleuchtung 'Buddha' genannt."
+  },
+  {
+    "question": "Welche Erfindung wird den Chinesen zugeschrieben?",
+    "answers": ["Papier", "Dampfmaschine", "Telefon", "Auto"],
+    "correctAnswer": 0,
+    "explanation": "Papier, Kompass, Schießpulver und Buchdruck gelten als die vier großen Erfindungen Chinas."
+  },
+  {
+    "question": "Wer schrieb das Theaterstück 'Romeo und Julia'?",
+    "answers": ["Goethe", "Schiller", "William Shakespeare", "Hemingway"],
+    "correctAnswer": 2,
+    "explanation": "Shakespeare schrieb die wohl berühmteste Liebesgeschichte der Welt."
+  },
+  {
+    "question": "Welches ist das schnellste Landtier der Welt?",
+    "answers": ["Löwe", "Pferd", "Gepard", "Antilope"],
+    "correctAnswer": 2,
+    "explanation": "Der Gepard kann Spitzengeschwindigkeiten von über 100 km/h erreichen."
+  },
+  {
+    "question": "Welches ist das derzeit höchste Gebäude der Welt?",
+    "answers": ["Empire State Building", "Eiffelturm", "Burj Khalifa", "Shanghai Tower"],
+    "correctAnswer": 2,
+    "explanation": "Der Burj Khalifa in Dubai ist 828 Meter hoch."
+  },
+  {
+    "question": "Welche Blutgruppe gilt als Universalspender (für rote Blutkörperchen)?",
+    "answers": ["A", "B", "AB", "0 (Null)"],
+    "correctAnswer": 3,
+    "explanation": "Blutgruppe 0 negativ kann fast jedem Empfänger gegeben werden."
+  },
+  {
+    "question": "Wie hoch ist die Lichtgeschwindigkeit im Vakuum (ca.)?",
+    "answers": ["300 km/s", "300.000 km/s", "1.000.000 km/s", "3.000 km/s"],
+    "correctAnswer": 1,
+    "explanation": "Licht legt ca. 300.000 Kilometer pro Sekunde zurück."
+  }
+]

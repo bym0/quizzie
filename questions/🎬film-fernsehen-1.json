@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Welcher Film gewann 1998 elf Oscars, darunter den für den besten Film?",
+    "answers": ["Der Soldat James Ryan", "Titanic", "Schindlers Liste", "Forrest Gump"],
+    "correctAnswer": 1,
+    "explanation": "James Camerons 'Titanic' hält (zusammen mit 'Ben Hur' und 'Der Herr der Ringe: Die Rückkehr des Königs') den Rekord für die meisten Oscars."
+  },
+  {
+    "question": "Wie heißt der Kaffeehaus-Treffpunkt in der Serie 'Friends'?",
+    "answers": ["Central Park", "Central Perk", "Monk's Café", "MacLaren's Pub"],
+    "correctAnswer": 1,
+    "explanation": "Die sechs Freunde treffen sich regelmäßig im 'Central Perk', wo Rachel anfangs als Kellnerin arbeitet."
+  },
+  {
+    "question": "Wer spielte die Rolle des Jack Dawson in 'Titanic'?",
+    "answers": ["Brad Pitt", "Johnny Depp", "Leonardo DiCaprio", "Tom Cruise"],
+    "correctAnswer": 2,
+    "explanation": "Leonardo DiCaprio wurde durch diese Rolle zum weltweiten Superstar."
+  },
+  {
+    "question": "Welches Zitat stammt von Darth Vader aus 'Das Imperium schlägt zurück'?",
+    "answers": ["Luke, ich bin dein Vater.", "Nein, ich bin dein Vater.", "Komm auf die dunkle Seite.", "Die Macht ist stark in dir."],
+    "correctAnswer": 1,
+    "explanation": "Das Zitat wird oft falsch zitiert ('Luke, ich bin...'), im Original sagt Vader jedoch: 'Nein, ich bin dein Vater'."
+  },
+  {
+    "question": "Wie heißt der erste abendfüllende Zeichentrickfilm von Disney?",
+    "answers": ["Cinderella", "Bambi", "Schneewittchen und die sieben Zwerge", "Der König der Löwen"],
+    "correctAnswer": 2,
+    "explanation": "Der Film erschien 1937 und war ein riesiger Erfolg für Walt Disney."
+  },
+  {
+    "question": "In welcher fiktiven Stadt spielt die Serie 'Die Simpsons'?",
+    "answers": ["South Park", "Quahog", "Springfield", "Shelbyville"],
+    "correctAnswer": 2,
+    "explanation": "Die Simpsons leben in Springfield (wobei der genaue US-Bundesstaat ein dauerhafter Scherz ist)."
+  },
+  {
+    "question": "Wer führte Regie bei 'Jurassic Park'?",
+    "answers": ["George Lucas", "Steven Spielberg", "James Cameron", "Christopher Nolan"],
+    "correctAnswer": 1,
+    "explanation": "Steven Spielberg brachte 1993 die Dinosaurier auf die Leinwand."
+  },
+  {
+    "question": "Wie heißt der Agent 007 mit Nachnamen?",
+    "answers": ["Hunt", "Bourne", "Bond", "Power"],
+    "correctAnswer": 2,
+    "explanation": "James Bond ist der berühmteste Geheimagent der Filmgeschichte."
+  },
+  {
+    "question": "Welche Farbe hat die Pille, die Neo in 'Matrix' nehmen muss, um die Wahrheit zu erfahren?",
+    "answers": ["Blau", "Grün", "Rot", "Gelb"],
+    "correctAnswer": 2,
+    "explanation": "Die rote Pille zeigt die Wahrheit ('Kaninchenbau'), die blaue Pille lässt ihn alles vergessen."
+  },
+  {
+    "question": "Wie lautet der Name von Harry Potters Eule?",
+    "answers": ["Hedwig", "Errol", "Hermes", "Pigwidgeon"],
+    "correctAnswer": 0,
+    "explanation": "Hedwig ist Harrys treue Schneeeule."
+  },
+  {
+    "question": "Welcher Schauspieler verkörperte den 'Joker' in 'The Dark Knight'?",
+    "answers": ["Jack Nicholson", "Jared Leto", "Heath Ledger", "Joaquin Phoenix"],
+    "correctAnswer": 2,
+    "explanation": "Heath Ledger gewann für diese Rolle posthum den Oscar."
+  },
+  {
+    "question": "Wie heißt die langlebigste deutsche Krimireihe?",
+    "answers": ["Polizeiruf 110", "Derrick", "Tatort", "Der Alte"],
+    "correctAnswer": 2,
+    "explanation": "Der 'Tatort' läuft seit 1970 im Ersten (ARD)."
+  },
+  {
+    "question": "Was ist das Motto des Hauses Stark in 'Game of Thrones'?",
+    "answers": ["Feuer und Blut", "Der Winter naht", "Hört mich brüllen", "Kräftig wachsen"],
+    "correctAnswer": 1,
+    "explanation": "'Winter is coming' (Der Winter naht) ist das berühmte Motto der Starks."
+  },
+  {
+    "question": "Welcher Film beginnt mit einem schwebenden weißen Plastiktüten-Video?",
+    "answers": ["American Beauty", "Fight Club", "Pulp Fiction", "Forrest Gump"],
+    "correctAnswer": 0,
+    "explanation": "Die Szene mit der tanzenden Tüte ist eine der bekanntesten aus 'American Beauty'."
+  },
+  {
+    "question": "Wie heißt der Hobbit, der den Einen Ring zum Schicksalsberg trägt?",
+    "answers": ["Samweis Gamdschie", "Peregrin Tuk", "Frodo Beutlin", "Bilbo Beutlin"],
+    "correctAnswer": 2,
+    "explanation": "Frodo ist der Ringträger in der 'Herr der Ringe'-Trilogie."
+  },
+  {
+    "question": "In welcher Serie stellt Walter White Crystal Meth her?",
+    "answers": ["Better Call Saul", "The Wire", "Breaking Bad", "Ozark"],
+    "correctAnswer": 2,
+    "explanation": "Der Chemielehrer Walter White wird zum Drogenbaron Heisenberg."
+  },
+  {
+    "question": "Welcher Schauspieler ist für die Rolle des 'Iron Man' bekannt?",
+    "answers": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+    "correctAnswer": 2,
+    "explanation": "Robert Downey Jr. startete mit dieser Rolle das Marvel Cinematic Universe (MCU)."
+  },
+  {
+    "question": "Wie heißt die Katze von Gargamel bei den Schlümpfen?",
+    "answers": ["Azrael", "Tom", "Sylvester", "Lucifer"],
+    "correctAnswer": 0,
+    "explanation": "Azrael jagt gemeinsam mit Gargamel die Schlümpfe."
+  },
+  {
+    "question": "Aus welchem Film stammt das Zitat: 'Das Leben ist wie eine Schachtel Pralinen'?",
+    "answers": ["Rain Man", "Forrest Gump", "Good Will Hunting", "Die Truman Show"],
+    "correctAnswer": 1,
+    "explanation": "Forrest Gump zitiert seine Mutter: 'Man weiß nie, was man kriegt.'"
+  },
+  {
+    "question": "Welche Serie spielt im fiktiven Kontinent Westeros?",
+    "answers": ["The Witcher", "Herr der Ringe", "Game of Thrones", "Vikings"],
+    "correctAnswer": 2,
+    "explanation": "Das Lied von Eis und Feuer spielt größtenteils auf Westeros."
+  },
+  {
+    "question": "Wer führte Regie bei der 'Herr der Ringe'-Trilogie?",
+    "answers": ["Peter Jackson", "George Lucas", "J.J. Abrams", "Ridley Scott"],
+    "correctAnswer": 0,
+    "explanation": "Der Neuseeländer Peter Jackson verfilmte Tolkiens Epos."
+  },
+  {
+    "question": "Wie heißt der außerirdische Besucher in Spielbergs Film von 1982?",
+    "answers": ["ALF", "E.T.", "Yoda", "Wall-E"],
+    "correctAnswer": 1,
+    "explanation": "E.T. der Außerirdische will 'nach Hause telefonieren'."
+  },
+  {
+    "question": "Welche Schauspielerin spielte 'Pretty Woman'?",
+    "answers": ["Meg Ryan", "Sandra Bullock", "Julia Roberts", "Angelina Jolie"],
+    "correctAnswer": 2,
+    "explanation": "Julia Roberts wurde durch die Rolle der Vivian Ward weltberühmt."
+  },
+  {
+    "question": "In welchem Jahr spielt der erste 'Zurück in die Zukunft'-Film hauptsächlich (Vergangenheit)?",
+    "answers": ["1955", "1965", "1985", "1945"],
+    "correctAnswer": 0,
+    "explanation": "Marty McFly reist von 1985 zurück ins Jahr 1955."
+  },
+  {
+    "question": "Welche Sitcom dreht sich um die Physiker Sheldon und Leonard?",
+    "answers": ["How I Met Your Mother", "The Big Bang Theory", "Two and a Half Men", "Scrubs"],
+    "correctAnswer": 1,
+    "explanation": "Die Serie handelt von einer Gruppe von Nerds und ihrer Nachbarin Penny."
+  },
+  {
+    "question": "Wie heißt der Löwe in 'Der König der Löwen', der von seinem Bruder getötet wird?",
+    "answers": ["Scar", "Simba", "Mufasa", "Nala"],
+    "correctAnswer": 2,
+    "explanation": "Mufasa ist Simbas Vater und wird von Scar in eine Gnu-Herde geworfen."
+  },
+  {
+    "question": "Welcher deutsche Film gewann 2007 den Oscar für den besten fremdsprachigen Film?",
+    "answers": ["Das Boot", "Der Untergang", "Das Leben der Anderen", "Nirgendwo in Afrika"],
+    "correctAnswer": 2,
+    "explanation": "Florian Henckel von Donnersmarcks Film thematisiert die Stasi-Überwachung in der DDR."
+  },
+  {
+    "question": "Welches Getränk bestellt James Bond klassischerweise?",
+    "answers": ["Whisky Sour", "Wodka Martini", "Gin Tonic", "Mojito"],
+    "correctAnswer": 1,
+    "explanation": "Er bestellt ihn 'geschüttelt, nicht gerührt'."
+  },
+  {
+    "question": "Wer ist der Vater von Luke Skywalker?",
+    "answers": ["Obi-Wan Kenobi", "Imperator Palpatine", "Anakin Skywalker", "Han Solo"],
+    "correctAnswer": 2,
+    "explanation": "Anakin Skywalker wurde zu Darth Vader."
+  },
+  {
+    "question": "Wie heißt das Schiff von Jack Sparrow?",
+    "answers": ["Black Pearl", "Flying Dutchman", "Jolly Roger", "Interceptor"],
+    "correctAnswer": 0,
+    "explanation": "Die Black Pearl ist das schnellste Schiff in der Karibik."
+  },
+  {
+    "question": "Welche Schauspielerin war 'Katniss Everdeen'?",
+    "answers": ["Emma Watson", "Jennifer Lawrence", "Scarlett Johansson", "Kristen Stewart"],
+    "correctAnswer": 1,
+    "explanation": "Jennifer Lawrence spielte die Hauptrolle in 'Die Tribute von Panem'."
+  },
+  {
+    "question": "Aus welchem Film stammt das Zitat: 'Ich sehe tote Menschen'?",
+    "answers": ["The Sixth Sense", "Ghostbusters", "Shining", "Psycho"],
+    "correctAnswer": 0,
+    "explanation": "Das Zitat stammt vom kleinen Jungen Cole Sear im Film mit Bruce Willis."
+  },
+  {
+    "question": "Wie heißt die Hauptfigur in 'How I Met Your Mother', die die Geschichte erzählt?",
+    "answers": ["Barney Stinson", "Marshall Eriksen", "Ted Mosby", "Robin Scherbatsky"],
+    "correctAnswer": 2,
+    "explanation": "Ted Mosby erzählt seinen Kindern im Jahr 2030, wie er ihre Mutter traf."
+  },
+  {
+    "question": "Welcher Film wird oft zu Weihnachten gezeigt und handelt vom kleinen Kevin?",
+    "answers": ["Kevin - Allein zu Haus", "Stirb Langsam", "Tatsächlich... Liebe", "Der Grinch"],
+    "correctAnswer": 0,
+    "explanation": "Der Klassiker, in dem Kevin McCallister Einbrecher abwehrt."
+  },
+  {
+    "question": "Wer spielte den 'Terminator'?",
+    "answers": ["Sylvester Stallone", "Jean-Claude Van Damme", "Arnold Schwarzenegger", "Bruce Willis"],
+    "correctAnswer": 2,
+    "explanation": "Schwarzenegger prägte den Satz 'I'll be back' (Ich komme wieder)."
+  },
+  {
+    "question": "Wie heißt die fiktive Sprache der blauen Ureinwohner in 'Avatar'?",
+    "answers": ["Klingonisch", "Elbisch", "Na'vi", "Dothraki"],
+    "correctAnswer": 2,
+    "explanation": "Die Na'vi leben auf dem Mond Pandora."
+  },
+  {
+    "question": "Welche Serie spielt in den 80er Jahren und handelt von einer Gruppe Kinder und einem Mädchen mit telekinetischen Kräften?",
+    "answers": ["Dark", "Stranger Things", "Black Mirror", "Riverdale"],
+    "correctAnswer": 1,
+    "explanation": "Stranger Things ist eine der erfolgreichsten Netflix-Serien."
+  },
+  {
+    "question": "Welcher Regisseur ist bekannt für Filme wie 'Pulp Fiction' und 'Kill Bill'?",
+    "answers": ["Martin Scorsese", "Quentin Tarantino", "Francis Ford Coppola", "Stanley Kubrick"],
+    "correctAnswer": 1,
+    "explanation": "Tarantino ist bekannt für seine Dialoge und nicht-lineare Erzählweisen."
+  },
+  {
+    "question": "Wie heißt der Cowboy in 'Toy Story'?",
+    "answers": ["Buzz Lightyear", "Woody", "Jessie", "Andy"],
+    "correctAnswer": 1,
+    "explanation": "Woody ist die Lieblingspuppe von Andy, bis Buzz auftaucht."
+  },
+  {
+    "question": "In welcher Stadt spielt der Film 'Casablanca'?",
+    "answers": ["Kairo", "Marrakesch", "Casablanca", "Algier"],
+    "correctAnswer": 2,
+    "explanation": "Er spielt in der marokkanischen Stadt Casablanca während des 2. Weltkriegs."
+  },
+  {
+    "question": "Wer moderierte viele Jahre lang 'Wetten, dass..?'?",
+    "answers": ["Günther Jauch", "Stefan Raab", "Thomas Gottschalk", "Joko Winterscheidt"],
+    "correctAnswer": 2,
+    "explanation": "Thomas Gottschalk prägte die Samstagabendshow über Jahrzehnte."
+  },
+  {
+    "question": "Wie lautet die erste Regel des 'Fight Club'?",
+    "answers": ["Keine Hemden, keine Schuhe", "Ihr verliert kein Wort über den Fight Club", "Kämpfe bis zum Ende", "Nur zwei Kämpfer"],
+    "correctAnswer": 1,
+    "explanation": "Die erste Regel lautet: Ihr verliert kein Wort über den Fight Club."
+  },
+  {
+    "question": "Welcher Schauspieler spielte 'Forrest Gump'?",
+    "answers": ["Tom Hanks", "Robin Williams", "Dustin Hoffman", "Harrison Ford"],
+    "correctAnswer": 0,
+    "explanation": "Tom Hanks gewann für diese Rolle einen Oscar."
+  },
+  {
+    "question": "Wie heißt der Riesengorilla, der das Empire State Building erklimmt?",
+    "answers": ["Godzilla", "King Kong", "Mighty Joe", "Donkey Kong"],
+    "correctAnswer": 1,
+    "explanation": "King Kong ist eines der berühmtesten Filmmonster der Geschichte."
+  },
+  {
+    "question": "Welcher Film gewann den ersten Oscar für den besten Animationsfilm überhaupt (2002)?",
+    "answers": ["Toy Story", "Shrek", "Monster AG", "Ice Age"],
+    "correctAnswer": 1,
+    "explanation": "Shrek gewann die erste Auszeichnung in dieser neu geschaffenen Kategorie."
+  },
+  {
+    "question": "Wer ist der Bösewicht in 'Das Schweigen der Lämmer'?",
+    "answers": ["Norman Bates", "Hannibal Lecter", "Freddy Krueger", "Jason Voorhees"],
+    "correctAnswer": 1,
+    "explanation": "Anthony Hopkins spielte den brillanten, kannibalistischen Psychiater Dr. Hannibal Lecter."
+  },
+  {
+    "question": "Aus welchem Land stammt die Erfolgsserie 'Squid Game'?",
+    "answers": ["Japan", "China", "Südkorea", "Thailand"],
+    "correctAnswer": 2,
+    "explanation": "Die südkoreanische Serie wurde 2021 zum weltweiten Phänomen auf Netflix."
+  },
+  {
+    "question": "Welche Farbe haben die Lichtschwerter der Sith in 'Star Wars' meistens?",
+    "answers": ["Blau", "Grün", "Rot", "Lila"],
+    "correctAnswer": 2,
+    "explanation": "Die dunkle Seite der Macht nutzt künstliche rote Kristalle."
+  },
+  {
+    "question": "Wie heißt der Archäologe mit Peitsche und Hut?",
+    "answers": ["Lara Croft", "Rick O'Connell", "Indiana Jones", "Nathan Drake"],
+    "correctAnswer": 2,
+    "explanation": "Indiana Jones (gespielt von Harrison Ford) ist der wohl berühmteste Filmarchäologe."
+  },
+  {
+    "question": "Welches Lied singt Elsa in 'Die Eiskönigin' (Deutsch)?",
+    "answers": ["Probier's mal mit Gemütlichkeit", "Lass jetzt los", "Farbenspiel des Winds", "In meiner Welt"],
+    "correctAnswer": 1,
+    "explanation": "Im Englischen 'Let It Go', im Deutschen 'Lass jetzt los'."
+  }
+]
