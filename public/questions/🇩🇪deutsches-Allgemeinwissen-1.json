@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+    "answers": ["12", "14", "16", "18"],
+    "correctAnswer": 2,
+    "explanation": "Deutschland besteht aus 16 Bundesländern."
+  },
+  {
+    "question": "Welche Farben hat die deutsche Nationalflagge?",
+    "answers": ["Schwarz-Rot-Gold", "Schwarz-Rot-Gelb", "Schwarz-Gold-Rot", "Gold-Rot-Schwarz"],
+    "correctAnswer": 0,
+    "explanation": "Die Farben der Flagge sind Schwarz-Rot-Gold (von oben nach unten)."
+  },
+  {
+    "question": "Wer ist das Staatsoberhaupt von Deutschland?",
+    "answers": ["Der Bundeskanzler", "Der Bundespräsident", "Der Bundestagspräsident", "Der Außenminister"],
+    "correctAnswer": 1,
+    "explanation": "Der Bundespräsident ist das Staatsoberhaupt, während der Kanzler Regierungschef ist."
+  },
+  {
+    "question": "Wie heißt die deutsche Verfassung?",
+    "answers": ["Bundesrecht", "Verfassungsurkunde", "Grundgesetz", "Deutschlandvertrag"],
+    "correctAnswer": 2,
+    "explanation": "Die Verfassung der Bundesrepublik Deutschland heißt Grundgesetz (GG)."
+  },
+  {
+    "question": "Welche Stadt ist die Hauptstadt von Deutschland?",
+    "answers": ["München", "Bonn", "Frankfurt am Main", "Berlin"],
+    "correctAnswer": 3,
+    "explanation": "Berlin ist seit der Wiedervereinigung 1990 die Hauptstadt."
+  },
+  {
+    "question": "An welchem Datum feiert man den Tag der Deutschen Einheit?",
+    "answers": ["17. Juni", "3. Oktober", "9. November", "1. Mai"],
+    "correctAnswer": 1,
+    "explanation": "Der 3. Oktober erinnert an die Wiedervereinigung im Jahr 1990."
+  },
+  {
+    "question": "Welches ist das flächenmäßig größte Bundesland?",
+    "answers": ["Niedersachsen", "Nordrhein-Westfalen", "Baden-Württemberg", "Bayern"],
+    "correctAnswer": 3,
+    "explanation": "Bayern ist das größte Bundesland nach Fläche."
+  },
+  {
+    "question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+    "answers": ["Willy Brandt", "Helmut Kohl", "Konrad Adenauer", "Helmut Schmidt"],
+    "correctAnswer": 2,
+    "explanation": "Konrad Adenauer (CDU) war von 1949 bis 1963 der erste Bundeskanzler."
+  },
+  {
+    "question": "Welches Wappentier ist auf dem deutschen Bundeswappen zu sehen?",
+    "answers": ["Löwe", "Bär", "Adler", "Wolf"],
+    "correctAnswer": 2,
+    "explanation": "Der Bundesadler ist das Hoheitszeichen der Bundesrepublik."
+  },
+  {
+    "question": "Wie hieß die Währung in Deutschland vor dem Euro?",
+    "answers": ["Reichsmark", "Deutsche Mark (D-Mark)", "Gulden", "Schilling"],
+    "correctAnswer": 1,
+    "explanation": "Die Deutsche Mark (DM) war bis zur Euro-Einführung 2002 offizielles Zahlungsmittel."
+  },
+  {
+    "question": "In welcher Stadt steht das Brandenburger Tor?",
+    "answers": ["Potsdam", "Hamburg", "Dresden", "Berlin"],
+    "correctAnswer": 3,
+    "explanation": "Das Brandenburger Tor ist eines der wichtigsten Wahrzeichen Berlins."
+  },
+  {
+    "question": "Welcher Fluss ist der längste, der durch Deutschland fließt?",
+    "answers": ["Elbe", "Rhein", "Donau", "Weser"],
+    "correctAnswer": 2,
+    "explanation": "Die Donau ist insgesamt länger als der Rhein, auch wenn der Rhein für die deutsche Wirtschaft oft als wichtiger gilt."
+  },
+  {
+    "question": "Wer schrieb das Theaterstück 'Faust'?",
+    "answers": ["Friedrich Schiller", "Johann Wolfgang von Goethe", "Thomas Mann", "Bertolt Brecht"],
+    "correctAnswer": 1,
+    "explanation": "Goethes Faust gilt als das bedeutendste Werk der deutschen Literatur."
+  },
+  {
+    "question": "Welches Gebirge liegt im Süden Deutschlands?",
+    "answers": ["Harz", "Erzgebirge", "Alpen", "Taunus"],
+    "correctAnswer": 2,
+    "explanation": "Die Alpen bilden die südliche Grenze Deutschlands zu Österreich."
+  },
+  {
+    "question": "Wie nennt man die Zeit des Nationalsozialismus (1933–1945)?",
+    "answers": ["Zweites Reich", "Drittes Reich", "Weimarer Republik", "Kaiserreich"],
+    "correctAnswer": 1,
+    "explanation": "Als 'Drittes Reich' bezeichneten die Nationalsozialisten ihren Staat."
+  },
+  {
+    "question": "Wie viele Nachbarländer hat Deutschland?",
+    "answers": ["7", "8", "9", "10"],
+    "correctAnswer": 2,
+    "explanation": "Deutschland grenzt an 9 Länder: Dänemark, Polen, Tschechien, Österreich, Schweiz, Frankreich, Luxemburg, Belgien, Niederlande."
+  },
+  {
+    "question": "Welches Bundesland ist eine Insel?",
+    "answers": ["Rügen", "Sylt", "Saarland", "Keines"],
+    "correctAnswer": 3,
+    "explanation": "Es gibt kein Bundesland, das nur aus einer Insel besteht. Rügen gehört zu Mecklenburg-Vorpommern."
+  },
+  {
+    "question": "Was war die Hauptstadt der DDR?",
+    "answers": ["Bonn", "Ost-Berlin", "Leipzig", "Dresden"],
+    "correctAnswer": 1,
+    "explanation": "Ost-Berlin war die Hauptstadt der Deutschen Demokratischen Republik."
+  },
+  {
+    "question": "Welcher deutsche Komponist war taub?",
+    "answers": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Richard Wagner"],
+    "correctAnswer": 2,
+    "explanation": "Beethoven litt unter zunehmender Taubheit, komponierte aber trotzdem weiter."
+  },
+  {
+    "question": "Welches Auto wird in Wolfsburg hergestellt?",
+    "answers": ["BMW", "Mercedes-Benz", "Volkswagen (VW)", "Audi"],
+    "correctAnswer": 2,
+    "explanation": "Wolfsburg ist der Stammsitz der Volkswagen AG."
+  },
+  {
+    "question": "Was ist die 'Berlinale'?",
+    "answers": ["Ein Musikfestival", "Ein Filmfestival", "Eine Buchmesse", "Ein Sportevent"],
+    "correctAnswer": 1,
+    "explanation": "Die Internationalen Filmfestspiele Berlin zählen zu den wichtigsten Filmfestivals weltweit."
+  },
+  {
+    "question": "Welcher Reformator übersetzte die Bibel ins Deutsche?",
+    "answers": ["Johannes Calvin", "Martin Luther", "Ulrich Zwingli", "Papst Benedikt"],
+    "correctAnswer": 1,
+    "explanation": "Martin Luther übersetzte das Neue Testament auf der Wartburg."
+  },
+  {
+    "question": "Welche Stadt ist bekannt für ihr Oktoberfest?",
+    "answers": ["Köln", "Berlin", "Hamburg", "München"],
+    "correctAnswer": 3,
+    "explanation": "Das Oktoberfest in München ist das größte Volksfest der Welt."
+  },
+  {
+    "question": "Welches ist das höchste deutsche Gericht?",
+    "answers": ["Bundesgerichtshof", "Bundesverfassungsgericht", "Oberlandesgericht", "Amtsgericht"],
+    "correctAnswer": 1,
+    "explanation": "Das Bundesverfassungsgericht in Karlsruhe wacht über die Einhaltung des Grundgesetzes."
+  },
+  {
+    "question": "Wie heißt der höchste Berg Deutschlands?",
+    "answers": ["Watzmann", "Feldberg", "Zugspitze", "Brocken"],
+    "correctAnswer": 2,
+    "explanation": "Die Zugspitze ist 2962 Meter hoch."
+  },
+  {
+    "question": "Welche Stadt wird 'Mainhattan' genannt?",
+    "answers": ["Würzburg", "Frankfurt am Main", "Mannheim", "Mainz"],
+    "correctAnswer": 1,
+    "explanation": "Wegen der Skyline und der Lage am Main wird Frankfurt oft so genannt."
+  },
+  {
+    "question": "Was geschah am 9. November 1989?",
+    "answers": ["Gründung der BRD", "Mauerfall", "Ende des 2. Weltkriegs", "Einführung des Euro"],
+    "correctAnswer": 1,
+    "explanation": "Der Fall der Berliner Mauer markierte das Ende der deutschen Teilung."
+  },
+  {
+    "question": "Wer komponierte die deutsche Nationalhymne?",
+    "answers": ["Joseph Haydn", "Ludwig van Beethoven", "Richard Strauss", "Johannes Brahms"],
+    "correctAnswer": 0,
+    "explanation": "Die Melodie stammt von Joseph Haydn (Kaiserquartett)."
+  },
+  {
+    "question": "Welches Bundesland hat die meisten Einwohner?",
+    "answers": ["Bayern", "Baden-Württemberg", "Nordrhein-Westfalen", "Berlin"],
+    "correctAnswer": 2,
+    "explanation": "NRW ist mit rund 18 Millionen Einwohnern das bevölkerungsreichste Land."
+  },
+  {
+    "question": "Was ist der Bundesrat?",
+    "answers": ["Die Regierung", "Die Vertretung der Bundesländer", "Das Parlament", "Das Gericht"],
+    "correctAnswer": 1,
+    "explanation": "Im Bundesrat wirken die Länder an der Gesetzgebung des Bundes mit."
+  },
+  {
+    "question": "In welcher Stadt steht der Kölner Dom?",
+    "answers": ["Mainz", "Aachen", "Düsseldorf", "Köln"],
+    "correctAnswer": 3,
+    "explanation": "Der Kölner Dom ist eine der bekanntesten Kathedralen und UNESCO-Welterbe."
+  },
+  {
+    "question": "Wer war Johannes Gutenberg?",
+    "answers": ["Erfinder des Buchdrucks", "Erfinder des Autos", "Ein berühmter Maler", "Ein König"],
+    "correctAnswer": 0,
+    "explanation": "Gutenberg erfand den Buchdruck mit beweglichen Metalllettern in Mainz."
+  },
+  {
+    "question": "Welche Insel ist die größte Deutschlands?",
+    "answers": ["Usedom", "Sylt", "Fehmarn", "Rügen"],
+    "correctAnswer": 3,
+    "explanation": "Rügen in der Ostsee ist die flächenmäßig größte Insel."
+  },
+  {
+    "question": "Welches Märchen stammt NICHT von den Gebrüdern Grimm?",
+    "answers": ["Hänsel und Gretel", "Schneewittchen", "Die kleine Meerjungfrau", "Rotkäppchen"],
+    "correctAnswer": 2,
+    "explanation": "Die kleine Meerjungfrau stammt vom Dänen Hans Christian Andersen."
+  },
+  {
+    "question": "Was ist die 'Stasi'?",
+    "answers": ["Eine deutsche Suppe", "Der Staatssicherheitsdienst der DDR", "Eine Partei", "Ein Gebirge"],
+    "correctAnswer": 1,
+    "explanation": "Das Ministerium für Staatssicherheit war Geheimpolizei und Nachrichtendienst der DDR."
+  },
+  {
+    "question": "Welche Stadt ist ein Stadtstaat?",
+    "answers": ["München", "Hamburg", "Köln", "Frankfurt"],
+    "correctAnswer": 1,
+    "explanation": "Hamburg, Berlin und Bremen sind Stadtstaaten (eigene Bundesländer)."
+  },
+  {
+    "question": "Wer war Albert Einstein?",
+    "answers": ["Ein Musiker", "Ein Politiker", "Ein Physiker", "Ein Maler"],
+    "correctAnswer": 2,
+    "explanation": "Der in Ulm geborene Physiker entwickelte die Relativitätstheorie."
+  },
+  {
+    "question": "Aus welchem Material bestand die Berliner Mauer hauptsächlich?",
+    "answers": ["Ziegelstein", "Holz", "Stahlbeton", "Stacheldraht"],
+    "correctAnswer": 2,
+    "explanation": "Die Mauer bestand aus großen Betonsegmenten."
+  },
+  {
+    "question": "Wie heißt der deutsche Aktienindex?",
+    "answers": ["Dow Jones", "DAX", "Nikkei", "EuroStoxx"],
+    "correctAnswer": 1,
+    "explanation": "Der Deutsche Aktienindex (DAX) bildet die 40 größten Unternehmen ab."
+  },
+  {
+    "question": "Welches Schloss ließ König Ludwig II. erbauen?",
+    "answers": ["Schloss Sanssouci", "Schloss Neuschwanstein", "Schloss Heidelberg", "Schloss Schönbrunn"],
+    "correctAnswer": 1,
+    "explanation": "Das 'Märchenschloss' Neuschwanstein steht in Bayern."
+  },
+  {
+    "question": "Was bedeutet die Abkürzung 'ZDF'?",
+    "answers": ["Zentrales Deutsches Fernsehen", "Zweites Deutsches Fernsehen", "Zeit Der Freunde", "Zusammen Durch Fernsehen"],
+    "correctAnswer": 1,
+    "explanation": "Das ZDF ist eine der öffentlich-rechtlichen Fernsehanstalten."
+  },
+  {
+    "question": "In welcher Stadt fanden 1972 die Olympischen Spiele statt?",
+    "answers": ["Berlin", "Hamburg", "München", "Stuttgart"],
+    "correctAnswer": 2,
+    "explanation": "München war Gastgeber der Sommerspiele 1972."
+  },
+  {
+    "question": "Welcher Fluss fließt durch Dresden und Hamburg?",
+    "answers": ["Rhein", "Donau", "Elbe", "Oder"],
+    "correctAnswer": 2,
+    "explanation": "Die Elbe verbindet diese beiden Städte auf ihrem Weg zur Nordsee."
+  },
+  {
+    "question": "Welches deutsche Gericht besteht aus Kohl, Fleisch und Kartoffeln in einem Topf?",
+    "answers": ["Eintopf", "Schnitzel", "Sauerbraten", "Maultaschen"],
+    "correctAnswer": 0,
+    "explanation": "Eintopf ist ein klassisches deutsches Gericht, bei dem alles in einem Topf gekocht wird."
+  },
+  {
+    "question": "Wer ist auf dem 10-Euro-Schein abgebildet?",
+    "answers": ["Goethe", "Merkel", "Niemand (fiktive Architektur)", "Bismarck"],
+    "correctAnswer": 2,
+    "explanation": "Euro-Scheine zeigen fiktive Brücken und Tore verschiedener Baustile, keine realen Personen."
+  },
+  {
+    "question": "Wie nennt man die 5. Jahreszeit im Rheinland?",
+    "answers": ["Ostern", "Karneval / Fasching", "Sommerfest", "Weihnachten"],
+    "correctAnswer": 1,
+    "explanation": "Der Karneval beginnt traditionell am 11.11. um 11:11 Uhr."
+  },
+  {
+    "question": "Welche deutsche Stadt ist berühmt für ihren Hafen und die Speicherstadt?",
+    "answers": ["Bremen", "Kiel", "Rostock", "Hamburg"],
+    "correctAnswer": 3,
+    "explanation": "Hamburg besitzt den größten Seehafen Deutschlands."
+  },
+  {
+    "question": "Was ist 'Loreley'?",
+    "answers": ["Ein Gericht", "Ein Felsen am Rhein", "Eine Sängerin", "Eine Burg"],
+    "correctAnswer": 1,
+    "explanation": "Der Loreley-Felsen am Mittelrhein ist sagenumwoben (die Sage der Nixe Loreley)."
+  },
+  {
+    "question": "Welches Bundesland ist das kleinste (Fläche)?",
+    "answers": ["Saarland", "Berlin", "Bremen", "Hamburg"],
+    "correctAnswer": 2,
+    "explanation": "Das Land Bremen (bestehend aus den Städten Bremen und Bremerhaven) ist flächenmäßig am kleinsten."
+  },
+  {
+    "question": "Wo wurde das Reinheitsgebot für Bier (1516) erlassen?",
+    "answers": ["In Bayern (Ingolstadt)", "In Preußen", "In Sachsen", "In Köln"],
+    "correctAnswer": 0,
+    "explanation": "Das Bayerische Reinheitsgebot schreibt vor, dass Bier nur aus Wasser, Malz und Hopfen (später Hefe) bestehen darf."
+  }
+]
