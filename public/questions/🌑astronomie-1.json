@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Welcher Planet ist der Sonne am nächsten?",
+    "answers": ["Venus", "Mars", "Merkur", "Erde"],
+    "correctAnswer": 2,
+    "explanation": "Merkur ist mit einem durchschnittlichen Abstand von etwa 58 Millionen Kilometern der sonnennächste Planet."
+  },
+  {
+    "question": "Wie heißt unsere Galaxie?",
+    "answers": ["Andromeda", "Milchstraße", "Triangulum", "Sombrero"],
+    "correctAnswer": 1,
+    "explanation": "Unser Sonnensystem befindet sich in der Milchstraße, einer Balkenspiralgalaxie."
+  },
+  {
+    "question": "Welcher Planet ist der größte in unserem Sonnensystem?",
+    "answers": ["Saturn", "Jupiter", "Neptun", "Uranus"],
+    "correctAnswer": 1,
+    "explanation": "Jupiter ist der massereichste und größte Planet unseres Sonnensystems."
+  },
+  {
+    "question": "Wie nennt man die Explosion eines massereichen Sterns am Ende seines Lebens?",
+    "answers": ["Nova", "Supernova", "Nebula", "Pulsar"],
+    "correctAnswer": 1,
+    "explanation": "Eine Supernova ist das helle Aufleuchten eines Sterns am Ende seiner Entwicklung durch eine Explosion."
+  },
+  {
+    "question": "Welcher Himmelskörper wurde 2006 vom Planeten zum Zwergplaneten zurückgestuft?",
+    "answers": ["Ceres", "Eris", "Pluto", "Haumea"],
+    "correctAnswer": 2,
+    "explanation": "Die Internationale Astronomische Union (IAU) definierte den Begriff 'Planet' neu, wodurch Pluto den Status verlor."
+  },
+  {
+    "question": "Wie lange braucht das Licht von der Sonne zur Erde (ca.)?",
+    "answers": ["1 Sekunde", "8 Minuten", "1 Stunde", "1 Jahr"],
+    "correctAnswer": 1,
+    "explanation": "Die Sonne ist etwa 150 Millionen Kilometer entfernt, das Licht benötigt dafür ca. 8 Minuten und 20 Sekunden."
+  },
+  {
+    "question": "Welcher Planet ist für seine ausgeprägten Ringe bekannt?",
+    "answers": ["Jupiter", "Mars", "Saturn", "Venus"],
+    "correctAnswer": 2,
+    "explanation": "Obwohl alle Gasplaneten Ringe haben, sind die des Saturns am hellsten und bekanntesten."
+  },
+  {
+    "question": "Was befindet sich im Zentrum der meisten Galaxien?",
+    "answers": ["Ein Sternenhaufen", "Ein Schwarzes Loch", "Ein Roter Riese", "Ein Nebel"],
+    "correctAnswer": 1,
+    "explanation": "Im Zentrum fast aller Galaxien, auch der Milchstraße, vermutet man ein supermassereiches Schwarzes Loch."
+  },
+  {
+    "question": "Welcher Planet wird oft als der 'Rote Planet' bezeichnet?",
+    "answers": ["Jupiter", "Venus", "Mars", "Merkur"],
+    "correctAnswer": 2,
+    "explanation": "Eisenoxid (Rost) auf der Oberfläche verleiht dem Mars seine rötliche Farbe."
+  },
+  {
+    "question": "Wie heißt der hellste Stern am Nachthimmel?",
+    "answers": ["Polarstern", "Betelgeuse", "Sirius", "Wega"],
+    "correctAnswer": 2,
+    "explanation": "Sirius im Sternbild Großer Hund ist der hellste Stern am irdischen Nachthimmel."
+  },
+  {
+    "question": "Was ist ein Lichtjahr?",
+    "answers": ["Eine Zeiteinheit", "Eine Längeneinheit", "Eine Geschwindigkeitsmessung", "Die Helligkeit eines Sterns"],
+    "correctAnswer": 1,
+    "explanation": "Ein Lichtjahr ist die Strecke, die das Licht in einem Jahr im Vakuum zurücklegt (ca. 9,46 Billionen km)."
+  },
+  {
+    "question": "Wie viele Monde hat die Erde?",
+    "answers": ["1", "2", "4", "Keine"],
+    "correctAnswer": 0,
+    "explanation": "Die Erde hat einen natürlichen Satelliten, den Mond."
+  },
+  {
+    "question": "Welches Weltraumteleskop wurde 1990 in den Orbit gebracht?",
+    "answers": ["James Webb", "Hubble", "Spitzer", "Kepler"],
+    "correctAnswer": 1,
+    "explanation": "Das Hubble-Weltraumteleskop revolutionierte die Astronomie mit seinen Aufnahmen."
+  },
+  {
+    "question": "Welches Element ist das häufigste im Universum?",
+    "answers": ["Helium", "Sauerstoff", "Wasserstoff", "Kohlenstoff"],
+    "correctAnswer": 2,
+    "explanation": "Wasserstoff macht etwa 75% der baryonischen Masse des Universums aus."
+  },
+  {
+    "question": "Wie nennt man eine Ansammlung von Sternen, die eine Figur bilden?",
+    "answers": ["Galaxie", "Sternbild", "Nebel", "Cluster"],
+    "correctAnswer": 1,
+    "explanation": "Sternbilder sind Gruppen von Sternen, die von der Erde aus gesehen Figuren bilden (z.B. Orion)."
+  },
+  {
+    "question": "Welcher Planet dreht sich entgegengesetzt zu den meisten anderen (retrograd)?",
+    "answers": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "correctAnswer": 2,
+    "explanation": "Die Venus rotiert im Uhrzeigersinn (retrograd), im Gegensatz zu den meisten anderen Planeten."
+  },
+  {
+    "question": "Was ist die 'Andromeda-Galaxie'?",
+    "answers": ["Ein Sternbild", "Unsere Nachbargalaxie", "Ein Komet", "Ein Asteroidengürtel"],
+    "correctAnswer": 1,
+    "explanation": "Die Andromedagalaxie ist die nächste große Spiralgalaxie zur Milchstraße."
+  },
+  {
+    "question": "Wer entwickelte das heliozentrische Weltbild (Sonne im Mittelpunkt)?",
+    "answers": ["Ptolemäus", "Nikolaus Kopernikus", "Aristoteles", "Isaac Newton"],
+    "correctAnswer": 1,
+    "explanation": "Kopernikus veröffentlichte 1543 die Theorie, dass die Planeten um die Sonne kreisen."
+  },
+  {
+    "question": "Was ist ein Komet?",
+    "answers": ["Ein Gesteinsbrocken", "Ein Schweifstern aus Eis und Staub", "Ein verglühender Stern", "Ein Planet"],
+    "correctAnswer": 1,
+    "explanation": "Kometen bestehen aus Eis, Staub und Gestein und bilden in Sonnennähe einen Schweif."
+  },
+  {
+    "question": "Welcher Mond gehört zum Jupiter?",
+    "answers": ["Titan", "Europa", "Triton", "Phobos"],
+    "correctAnswer": 1,
+    "explanation": "Europa ist einer der vier großen Galileischen Monde des Jupiter."
+  },
+  {
+    "question": "Was passiert bei einer Sonnenfinsternis?",
+    "answers": ["Die Erde steht zwischen Sonne und Mond", "Der Mond steht zwischen Sonne und Erde", "Die Sonne erlischt kurzzeitig", "Ein anderer Planet verdeckt die Sonne"],
+    "correctAnswer": 1,
+    "explanation": "Bei einer Sonnenfinsternis wirft der Mond seinen Schatten auf die Erde."
+  },
+  {
+    "question": "Wie alt ist das Universum ungefähr?",
+    "answers": ["4,5 Milliarden Jahre", "10 Millionen Jahre", "13,8 Milliarden Jahre", "100 Milliarden Jahre"],
+    "correctAnswer": 2,
+    "explanation": "Nach dem Standardmodell der Kosmologie ereignete sich der Urknall vor etwa 13,8 Milliarden Jahren."
+  },
+  {
+    "question": "Welcher Planet ist der heißeste im Sonnensystem?",
+    "answers": ["Merkur", "Mars", "Venus", "Jupiter"],
+    "correctAnswer": 2,
+    "explanation": "Auf der Venus herrschen durch einen extremen Treibhauseffekt Temperaturen um 460 °C, heißer als auf Merkur."
+  },
+  {
+    "question": "Was ist der 'Große Rote Fleck' auf dem Jupiter?",
+    "answers": ["Ein Vulkan", "Ein riesiger Sturm", "Ein Einschlagkrater", "Ein Ozean"],
+    "correctAnswer": 1,
+    "explanation": "Der Große Rote Fleck ist ein Wirbelsturm, der größer als die Erde ist und seit Jahrhunderten tobt."
+  },
+  {
+    "question": "Wie nennt man kleine Gesteinsbrocken, die in der Erdatmosphäre verglühen?",
+    "answers": ["Meteoriten", "Meteore (Sternschnuppen)", "Asteroiden", "Kometen"],
+    "correctAnswer": 1,
+    "explanation": "Die Leuchterscheinung beim Verglühen nennt man Meteor; erreicht ein Rest den Boden, heißt er Meteorit."
+  },
+  {
+    "question": "Welche Farbe hat ein sehr heißer Stern?",
+    "answers": ["Rot", "Gelb", "Blau/Weiß", "Grün"],
+    "correctAnswer": 2,
+    "explanation": "Heiße Sterne strahlen im kurzwelligen (blauen) Bereich, kühlere Sterne eher rötlich."
+  },
+  {
+    "question": "Was ist die 'Astronomische Einheit' (AE)?",
+    "answers": ["Der Abstand Erde-Mond", "Der Durchmesser der Sonne", "Der mittlere Abstand Erde-Sonne", "Die Größe der Milchstraße"],
+    "correctAnswer": 2,
+    "explanation": "Eine AE entspricht etwa 150 Millionen Kilometern."
+  },
+  {
+    "question": "Welcher Planet hat die meisten Monde (Stand 2023)?",
+    "answers": ["Jupiter", "Saturn", "Uranus", "Neptun"],
+    "correctAnswer": 1,
+    "explanation": "Saturn hat mittlerweile über 140 bestätigte Monde und hat Jupiter überholt."
+  },
+  {
+    "question": "Wie nennt man die theoretische Grenze um ein Schwarzes Loch, ab der kein Licht mehr entkommen kann?",
+    "answers": ["Singularität", "Ereignishorizont", "Akkretionsscheibe", "Dunkle Materie"],
+    "correctAnswer": 1,
+    "explanation": "Der Ereignishorizont ist der 'Point of no Return'."
+  },
+  {
+    "question": "Wo befindet sich der Asteroidengürtel hauptsächlich?",
+    "answers": ["Zwischen Erde und Mars", "Zwischen Mars und Jupiter", "Hinter dem Neptun", "Um die Sonne herum (überall)"],
+    "correctAnswer": 1,
+    "explanation": "Der Hauptgürtel der Asteroiden liegt zwischen den Umlaufbahnen von Mars und Jupiter."
+  },
+  {
+    "question": "Wer war der erste Mensch im Weltall?",
+    "answers": ["Neil Armstrong", "Juri Gagarin", "John Glenn", "Alan Shepard"],
+    "correctAnswer": 1,
+    "explanation": "Der sowjetische Kosmonaut Juri Gagarin flog am 12. April 1961 ins All."
+  },
+  {
+    "question": "Welches Sternbild wird oft als 'Himmelsjäger' bezeichnet?",
+    "answers": ["Großer Bär", "Kassiopeia", "Orion", "Skorpion"],
+    "correctAnswer": 2,
+    "explanation": "Orion ist ein markantes Wintersternbild, das einen Jäger darstellt."
+  },
+  {
+    "question": "Was ist ein Pulsar?",
+    "answers": ["Ein variabler Stern", "Ein schnell rotierender Neutronenstern", "Ein Schwarzes Loch", "Ein Quasar"],
+    "correctAnswer": 1,
+    "explanation": "Pulsare sind Neutronensterne, die starke Radiostrahlung in regelmäßigen Impulsen aussenden."
+  },
+  {
+    "question": "Welcher Planet wird auch 'Abendstern' oder 'Morgenstern' genannt?",
+    "answers": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "correctAnswer": 2,
+    "explanation": "Aufgrund ihrer Helligkeit ist die Venus oft das erste oder letzte sichtbare Objekt am Himmel."
+  },
+  {
+    "question": "Wie nennt man die Geburtstätte neuer Sterne?",
+    "answers": ["Schwarzes Loch", "Weißer Zwerg", "Nebel (Molekülwolke)", "Quasar"],
+    "correctAnswer": 2,
+    "explanation": "In dichten Gas- und Staubnebeln kollabiert Materie zu neuen Sternen."
+  },
+  {
+    "question": "Was war der erste künstliche Satellit im All?",
+    "answers": ["Explorer 1", "Sputnik 1", "Vostok 1", "Apollo 11"],
+    "correctAnswer": 1,
+    "explanation": "Sputnik 1 wurde 1957 von der Sowjetunion gestartet."
+  },
+  {
+    "question": "Welche Kraft hält das Universum in seinen Strukturen zusammen?",
+    "answers": ["Elektromagnetismus", "Starke Kernkraft", "Gravitation", "Zentrifugalkraft"],
+    "correctAnswer": 2,
+    "explanation": "Die Gravitation (Schwerkraft) dominiert die großräumigen Strukturen im Universum."
+  },
+  {
+    "question": "Was ist die 'Dunkle Materie'?",
+    "answers": ["Schwarze Löcher", "Unsichtbare Materie, die Gravitation ausübt", "Antimaterie", "Weltraumschrott"],
+    "correctAnswer": 1,
+    "explanation": "Dunkle Materie wechselwirkt nicht mit Licht, erklärt aber Rotationsgeschwindigkeiten von Galaxien."
+  },
+  {
+    "question": "Wie nennt man den Punkt im Orbit, an dem ein Planet der Sonne am nächsten ist?",
+    "answers": ["Aphel", "Perihel", "Zenit", "Nadir"],
+    "correctAnswer": 1,
+    "explanation": "Das Perihel ist der sonnennächste Punkt, das Aphel der sonnenfernste."
+  },
+  {
+    "question": "Welches ist der zweitgrößte Planet unseres Sonnensystems?",
+    "answers": ["Uranus", "Neptun", "Saturn", "Erde"],
+    "correctAnswer": 2,
+    "explanation": "Saturn folgt in der Größe direkt auf Jupiter."
+  },
+  {
+    "question": "Was sind die 'Pleijaden'?",
+    "answers": ["Eine Galaxie", "Ein offener Sternhaufen", "Ein Komet", "Ein Planetensystem"],
+    "correctAnswer": 1,
+    "explanation": "Die Plejaden (Siebengestirn) sind ein mit bloßem Auge sichtbarer Sternhaufen im Stier."
+  },
+  {
+    "question": "Wie heißt der größte Mond des Saturn?",
+    "answers": ["Titan", "Ganymed", "Io", "Kallisto"],
+    "correctAnswer": 0,
+    "explanation": "Titan ist der größte Saturnmond und besitzt eine dichte Atmosphäre."
+  },
+  {
+    "question": "In welcher Phase befindet sich unsere Sonne?",
+    "answers": ["Roter Riese", "Weißer Zwerg", "Hauptreihenstern", "Protostern"],
+    "correctAnswer": 2,
+    "explanation": "Die Sonne ist ein stabiler Hauptreihenstern (Gelber Zwerg), der Wasserstoff zu Helium fusioniert."
+  },
+  {
+    "question": "Was verursachen Sonnenwinde auf der Erde?",
+    "answers": ["Erdbeben", "Polarlichter (Aurora)", "Vulkanausbrüche", "Tsunamis"],
+    "correctAnswer": 1,
+    "explanation": "Geladene Teilchen der Sonne treffen auf das Magnetfeld der Erde und regen die Atmosphäre zum Leuchten an."
+  },
+  {
+    "question": "Welches Sternbild hilft, den Polarstern zu finden?",
+    "answers": ["Orion", "Großer Bär (Großer Wagen)", "Kassiopeia", "Schwan"],
+    "correctAnswer": 1,
+    "explanation": "Die Verlängerung der hinteren Achse des Großen Wagens zeigt direkt auf den Polarstern."
+  },
+  {
+    "question": "Wer war der erste Mensch auf dem Mond?",
+    "answers": ["Buzz Aldrin", "Michael Collins", "Neil Armstrong", "Yuri Gagarin"],
+    "correctAnswer": 2,
+    "explanation": "Neil Armstrong betrat am 21. Juli 1969 als erster Mensch den Mond."
+  },
+  {
+    "question": "Was ist ein Exoplanet?",
+    "answers": ["Ein Planet außerhalb unseres Sonnensystems", "Ein ehemaliger Planet", "Ein Planet ohne Mond", "Ein Gasriese"],
+    "correctAnswer": 0,
+    "explanation": "Exoplaneten (extrasolare Planeten) kreisen um andere Sterne als die Sonne."
+  },
+  {
+    "question": "Wie nennt man die Lehre vom Ursprung und der Entwicklung des Universums?",
+    "answers": ["Astrologie", "Kosmologie", "Geologie", "Meteorologie"],
+    "correctAnswer": 1,
+    "explanation": "Die Kosmologie ist ein Teilgebiet der Astronomie und Physik."
+  },
+  {
+    "question": "Welche Galaxienform hat die Milchstraße?",
+    "answers": ["Elliptisch", "Irregulär", "Balkenspirale", "Kugelförmig"],
+    "correctAnswer": 2,
+    "explanation": "Die Milchstraße ist eine Balkenspiralgalaxie mit mehreren Spiralarmen."
+  },
+  {
+    "question": "Wie viele Planeten hat unser Sonnensystem?",
+    "answers": ["7", "8", "9", "10"],
+    "correctAnswer": 1,
+    "explanation": "Seit der Deklassifizierung von Pluto im Jahr 2006 zählt man 8 Planeten."
+  }
+]
