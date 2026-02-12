@@ -83,7 +83,8 @@ function selectAnswer(index) {
   answerSelected.value = true
 
   const isCorrect = index === currentQuestion.value.correctAnswer
-  emit('answer-selected', isCorrect)
+  const category = currentQuestion.value.category || props.topicName
+  emit('answer-selected', isCorrect, category)
 }
 
 function handleNext() {

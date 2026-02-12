@@ -35,6 +35,7 @@ import { ref, onMounted } from 'vue'
 import StartScreen from './components/StartScreen.vue'
 import QuizScreen from './components/QuizScreen.vue'
 import ResultsScreen from './components/ResultsScreen.vue'
+import { recordAnswer } from './utils/statistics.js'
 
 const currentScreen = ref('start')
 const questions = ref([])
@@ -156,8 +157,11 @@ async function startQuiz(topicPath, topicName, topicEmoji, questionCount) {
     // Randomize the questions order
     const shuffledQuestions = shuffleArray(loadedQuestions)
 
-    // Limit to the selected number of questions
-    questions.value = shuffledQuestions.slice(0, questionCount)
+    // Limit to the selected number of questions and add category info
+    questions.value = shuffledQuestions.slice(0, questionCount).map(q => ({
+      ...q,
+      category: topicName
+    }))
 
     selectedTopicName.value = topicName
     selectedTopicEmoji.value = topicEmoji
@@ -179,7 +183,12 @@ async function startRandomQuiz(questionCount, topicsList) {
       try {
         const response = await fetch(topic.path)
         const topicQuestions = await response.json()
-        allQuestions.push(...topicQuestions)
+        // Add category info to each question
+        const questionsWithCategory = topicQuestions.map(q => ({
+          ...q,
+          category: topic.name
+        }))
+        allQuestions.push(...questionsWithCategory)
       } catch (error) {
         console.error(`Error loading questions from ${topic.name}:`, error)
       }
@@ -211,6 +220,9 @@ function handleAnswerSelected(isCorrect) {
   if (isCorrect) {
     score.value++
   }
+
+  // Record the answer in statistics
+  recordAnswer(selectedTopicName.value, isCorrect)
 }
 
 function nextQuestion() {

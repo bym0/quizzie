@@ -41,12 +41,40 @@
           <span class="topic-name">{{ topic.name }}</span>
         </button>
       </div>
+
+      <!-- Statistics Section -->
+      <div v-if="hasStatistics" class="statistics-section">
+        <h3 class="statistics-title">📊 Your Statistics</h3>
+
+        <div class="statistics-grid">
+          <div v-if="topCorrectCategories.length > 0" class="stat-box success">
+            <h4>✅ Best Categories</h4>
+            <div class="stat-list">
+              <div v-for="(item, index) in topCorrectCategories" :key="index" class="stat-item">
+                <span class="stat-category">{{ item.category }}</span>
+                <span class="stat-value">{{ item.correct }} correct</span>
+              </div>
+            </div>
+          </div>
+
+          <div v-if="topIncorrectCategories.length > 0" class="stat-box warning">
+            <h4>❌ Needs Practice</h4>
+            <div class="stat-list">
+              <div v-for="(item, index) in topIncorrectCategories" :key="index" class="stat-item">
+                <span class="stat-category">{{ item.category }}</span>
+                <span class="stat-value">{{ item.incorrect }} incorrect</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
+import { getTopCorrectCategories, getTopIncorrectCategories } from '../utils/statistics.js'
 
 const props = defineProps({
   topics: {
@@ -62,6 +90,13 @@ const props = defineProps({
 const emit = defineEmits(['start-quiz', 'start-random-quiz'])
 
 const questionCount = ref(10)
+
+// Statistics
+const topCorrectCategories = computed(() => getTopCorrectCategories(3))
+const topIncorrectCategories = computed(() => getTopIncorrectCategories(3))
+const hasStatistics = computed(() =>
+  topCorrectCategories.value.length > 0 || topIncorrectCategories.value.length > 0
+)
 
 function selectTopic(topic) {
   emit('start-quiz', topic.path, topic.name, topic.emoji, questionCount.value)
@@ -195,6 +230,95 @@ function selectRandom() {
 @media (max-width: 600px) {
   .topics-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+/* Statistics Section */
+.statistics-section {
+  margin-top: 50px;
+  padding: 25px;
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%);
+  border-radius: 15px;
+  border: 2px solid rgba(102, 126, 234, 0.2);
+}
+
+.statistics-title {
+  text-align: center;
+  color: #667eea;
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.statistics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.stat-box {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.stat-box.success {
+  border-left: 4px solid #10b981;
+}
+
+.stat-box.warning {
+  border-left: 4px solid #f59e0b;
+}
+
+.stat-box h4 {
+  margin: 0 0 15px 0;
+  font-size: 1.1rem;
+  color: #333;
+  font-weight: 700;
+}
+
+.stat-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.stat-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%);
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.stat-item:hover {
+  transform: translateX(5px);
+}
+
+.stat-category {
+  font-weight: 600;
+  color: #333;
+  flex: 1;
+}
+
+.stat-value {
+  font-weight: 700;
+  color: #667eea;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  margin-left: 10px;
+}
+
+@media (max-width: 600px) {
+  .statistics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .statistics-section {
+    padding: 20px;
   }
 }
 </style>
