@@ -216,13 +216,13 @@ async function startRandomQuiz(questionCount, topicsList) {
   }
 }
 
-function handleAnswerSelected(isCorrect) {
+function handleAnswerSelected(isCorrect, category) {
   if (isCorrect) {
     score.value++
   }
 
-  // Record the answer in statistics
-  recordAnswer(selectedTopicName.value, isCorrect)
+  // Record the answer in statistics using the actual category
+  recordAnswer(category, isCorrect)
 }
 
 function nextQuestion() {
