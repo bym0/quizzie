@@ -1,0 +1,572 @@
+[
+  {
+    "question": "Wer malte die Mona Lisa?",
+    "answers": ["Michelangelo", "Leonardo da Vinci", "Raffael", "Donatello"],
+    "correctAnswer": 1,
+    "explanation": "Leonardo da Vinci malte die berühmte Mona Lisa zwischen 1503 und 1519."
+  },
+  {
+    "question": "In welchem Museum hängt die Mona Lisa?",
+    "answers": ["Louvre", "Uffizien", "Prado", "British Museum"],
+    "correctAnswer": 0,
+    "explanation": "Die Mona Lisa befindet sich im Louvre in Paris."
+  },
+  {
+    "question": "Wer malte 'Die Sternennacht'?",
+    "answers": ["Claude Monet", "Paul Cézanne", "Vincent van Gogh", "Paul Gauguin"],
+    "correctAnswer": 2,
+    "explanation": "Vincent van Gogh malte 'Die Sternennacht' 1889."
+  },
+  {
+    "question": "Welche Kunstepoche kam nach dem Mittelalter?",
+    "answers": ["Barock", "Renaissance", "Gotik", "Romanik"],
+    "correctAnswer": 1,
+    "explanation": "Die Renaissance folgte auf das Mittelalter (ca. 15.-16. Jahrhundert)."
+  },
+  {
+    "question": "Wer malte die Decke der Sixtinischen Kapelle?",
+    "answers": ["Raffael", "Leonardo da Vinci", "Michelangelo", "Tizian"],
+    "correctAnswer": 2,
+    "explanation": "Michelangelo malte zwischen 1508 und 1512 die Decke der Sixtinischen Kapelle."
+  },
+  {
+    "question": "Was ist ein Aquarell?",
+    "answers": ["Ölmalerei", "Wasserfarbenmalerei", "Kohlezeichnung", "Skulptur"],
+    "correctAnswer": 1,
+    "explanation": "Aquarell ist eine Maltechnik mit wasserlöslichen Farben."
+  },
+  {
+    "question": "Welcher Künstler schnitt sich ein Ohr ab?",
+    "answers": ["Pablo Picasso", "Vincent van Gogh", "Paul Gauguin", "Edvard Munch"],
+    "correctAnswer": 1,
+    "explanation": "Vincent van Gogh schnitt sich 1888 einen Teil seines linken Ohres ab."
+  },
+  {
+    "question": "Wer malte 'Guernica'?",
+    "answers": ["Salvador Dalí", "Joan Miró", "Pablo Picasso", "Henri Matisse"],
+    "correctAnswer": 2,
+    "explanation": "Pablo Picasso malte 'Guernica' 1937 als Reaktion auf den Bombenangriff."
+  },
+  {
+    "question": "Was bedeutet 'Impressionismus'?",
+    "answers": ["Eindruck des Moments", "Perfekte Nachahmung", "Abstrakte Kunst", "Religiöse Kunst"],
+    "correctAnswer": 0,
+    "explanation": "Impressionismus fängt den flüchtigen Eindruck eines Moments ein."
+  },
+  {
+    "question": "Wer malte 'Der Schrei'?",
+    "answers": ["Vincent van Gogh", "Edvard Munch", "Gustav Klimt", "Egon Schiele"],
+    "correctAnswer": 1,
+    "explanation": "Edvard Munch malte 'Der Schrei' zwischen 1893 und 1910."
+  },
+  {
+    "question": "In welcher Stadt steht die Statue 'David' von Michelangelo?",
+    "answers": ["Rom", "Venedig", "Florenz", "Mailand"],
+    "correctAnswer": 2,
+    "explanation": "Der originale 'David' steht in der Galleria dell'Accademia in Florenz."
+  },
+  {
+    "question": "Was ist ein Fresko?",
+    "answers": ["Ölgemälde", "Wandmalerei auf feuchtem Putz", "Holzschnitt", "Bronzeskulptur"],
+    "correctAnswer": 1,
+    "explanation": "Ein Fresko ist eine Wandmalerei auf frischem, feuchtem Kalkputz."
+  },
+  {
+    "question": "Wer malte 'Die Geburt der Venus'?",
+    "answers": ["Tizian", "Sandro Botticelli", "Raffael", "Caravaggio"],
+    "correctAnswer": 1,
+    "explanation": "Sandro Botticelli malte 'Die Geburt der Venus' um 1485."
+  },
+  {
+    "question": "Welche Farben sind Primärfarben?",
+    "answers": ["Rot, Grün, Blau", "Rot, Gelb, Blau", "Orange, Grün, Violett", "Schwarz, Weiß, Grau"],
+    "correctAnswer": 1,
+    "explanation": "Die Primärfarben in der Malerei sind Rot, Gelb und Blau."
+  },
+  {
+    "question": "Wer war Andy Warhol?",
+    "answers": ["Bildhauer", "Pop-Art-Künstler", "Architekt", "Fotograf"],
+    "correctAnswer": 1,
+    "explanation": "Andy Warhol war ein führender Vertreter der Pop-Art-Bewegung."
+  },
+  {
+    "question": "Was ist ein Stillleben?",
+    "answers": ["Landschaftsmalerei", "Porträtmalerei", "Darstellung unbelebter Objekte", "Abstrakte Kunst"],
+    "correctAnswer": 2,
+    "explanation": "Ein Stillleben zeigt arrangierte, unbelebte Gegenstände."
+  },
+  {
+    "question": "Wer malte 'Die Nachtwache'?",
+    "answers": ["Johannes Vermeer", "Rembrandt van Rijn", "Frans Hals", "Jan Steen"],
+    "correctAnswer": 1,
+    "explanation": "Rembrandt van Rijn malte 'Die Nachtwache' 1642."
+  },
+  {
+    "question": "Was ist Kubismus?",
+    "answers": ["Realistische Malerei", "Abstraktion mit geometrischen Formen", "Religiöse Kunst", "Landschaftsmalerei"],
+    "correctAnswer": 1,
+    "explanation": "Kubismus zerlegte Objekte in geometrische Formen und zeigte sie aus verschiedenen Perspektiven."
+  },
+  {
+    "question": "Wer malte 'Das Mädchen mit dem Perlenohrring'?",
+    "answers": ["Rembrandt", "Vermeer", "Rubens", "Van Dyck"],
+    "correctAnswer": 1,
+    "explanation": "Johannes Vermeer malte 'Das Mädchen mit dem Perlenohrring' um 1665."
+  },
+  {
+    "question": "Was ist eine Lithografie?",
+    "answers": ["Steindruckverfahren", "Holzschnitt", "Radierung", "Ölmalerei"],
+    "correctAnswer": 0,
+    "explanation": "Lithografie ist ein Flachdruckverfahren mit Stein als Druckplatte."
+  },
+  {
+    "question": "Wer malte 'Die Beständigkeit der Erinnerung' mit schmelzenden Uhren?",
+    "answers": ["René Magritte", "Salvador Dalí", "Max Ernst", "Joan Miró"],
+    "correctAnswer": 1,
+    "explanation": "Salvador Dalí malte 1931 das surreale Werk mit den schmelzenden Uhren."
+  },
+  {
+    "question": "In welcher Epoche lebte Leonardo da Vinci?",
+    "answers": ["Gotik", "Renaissance", "Barock", "Rokoko"],
+    "correctAnswer": 1,
+    "explanation": "Leonardo da Vinci lebte in der Renaissance (1452-1519)."
+  },
+  {
+    "question": "Was ist ein Triptychon?",
+    "answers": ["Ein dreiteiliges Gemälde", "Eine Skulptur", "Eine Maltechnik", "Ein Museum"],
+    "correctAnswer": 0,
+    "explanation": "Ein Triptychon ist ein dreiteiliges, zusammenhängendes Gemälde."
+  },
+  {
+    "question": "Wer malte 'Impression, Sonnenaufgang'?",
+    "answers": ["Claude Monet", "Pierre-Auguste Renoir", "Camille Pissarro", "Edgar Degas"],
+    "correctAnswer": 0,
+    "explanation": "Claude Monet malte 'Impression, Sonnenaufgang' 1872, das dem Impressionismus seinen Namen gab."
+  },
+  {
+    "question": "Was ist Chiaroscuro?",
+    "answers": ["Eine Farbe", "Hell-Dunkel-Malerei", "Eine Epoche", "Ein Werkzeug"],
+    "correctAnswer": 1,
+    "explanation": "Chiaroscuro ist die Maltechnik mit starken Hell-Dunkel-Kontrasten."
+  },
+  {
+    "question": "Wer malte 'Der Kuss'?",
+    "answers": ["Egon Schiele", "Gustav Klimt", "Oskar Kokoschka", "Ernst Ludwig Kirchner"],
+    "correctAnswer": 1,
+    "explanation": "Gustav Klimt malte 'Der Kuss' 1908-1909."
+  },
+  {
+    "question": "Was ist Surrealismus?",
+    "answers": ["Realistische Malerei", "Traumhafte, irrationale Kunst", "Abstrakte Kunst", "Religiöse Kunst"],
+    "correctAnswer": 1,
+    "explanation": "Surrealismus zeigt traumhafte, oft irrationale Bildwelten des Unterbewusstseins."
+  },
+  {
+    "question": "Wer entwarf das Guggenheim-Museum in New York?",
+    "answers": ["Le Corbusier", "Frank Lloyd Wright", "Ludwig Mies van der Rohe", "Walter Gropius"],
+    "correctAnswer": 1,
+    "explanation": "Frank Lloyd Wright entwarf das spiralförmige Guggenheim-Museum."
+  },
+  {
+    "question": "Was ist ein Kupferstich?",
+    "answers": ["Malerei", "Druckgrafik-Technik", "Skulptur", "Fotografie"],
+    "correctAnswer": 1,
+    "explanation": "Kupferstich ist eine Tiefdrucktechnik, bei der in Kupferplatten graviert wird."
+  },
+  {
+    "question": "Wer malte 'Die drei Grazien'?",
+    "answers": ["Tizian", "Peter Paul Rubens", "Caravaggio", "Velázquez"],
+    "correctAnswer": 1,
+    "explanation": "Peter Paul Rubens malte 'Die drei Grazien' um 1635."
+  },
+  {
+    "question": "Was ist die Goldene Ratio?",
+    "answers": ["Eine Farbe", "Ein Größenverhältnis", "Eine Epoche", "Ein Werkzeug"],
+    "correctAnswer": 1,
+    "explanation": "Die Goldene Ratio (ca. 1:1,618) ist ein harmonisches Größenverhältnis in der Kunst."
+  },
+  {
+    "question": "Wer gründete das Bauhaus?",
+    "answers": ["Walter Gropius", "Le Corbusier", "Ludwig Mies van der Rohe", "Frank Lloyd Wright"],
+    "correctAnswer": 0,
+    "explanation": "Walter Gropius gründete 1919 das Bauhaus in Weimar."
+  },
+  {
+    "question": "Was ist Expressionismus?",
+    "answers": ["Realistische Darstellung", "Ausdruck innerer Gefühle", "Perfekte Proportionen", "Abstrakte Geometrie"],
+    "correctAnswer": 1,
+    "explanation": "Expressionismus betont den subjektiven Ausdruck innerer Emotionen."
+  },
+  {
+    "question": "Wer malte 'Schwarz-Weiß-Quadrate'?",
+    "answers": ["Wassily Kandinsky", "Piet Mondrian", "Kasimir Malewitsch", "Paul Klee"],
+    "correctAnswer": 2,
+    "explanation": "Kasimir Malewitsch war Begründer des Suprematismus mit geometrischen Formen."
+  },
+  {
+    "question": "Was ist ein Akt in der Kunst?",
+    "answers": ["Landschaft", "Darstellung nackter Menschen", "Stillleben", "Tiermalerei"],
+    "correctAnswer": 1,
+    "explanation": "Ein Akt ist die künstlerische Darstellung des nackten menschlichen Körpers."
+  },
+  {
+    "question": "Wer malte 'Die Kartoffelesser'?",
+    "answers": ["Paul Cézanne", "Vincent van Gogh", "Jean-François Millet", "Gustave Courbet"],
+    "correctAnswer": 1,
+    "explanation": "Vincent van Gogh malte 'Die Kartoffelesser' 1885."
+  },
+  {
+    "question": "Was ist ein Pastell?",
+    "answers": ["Ölfarbe", "Trockene Farbstifte", "Wasserfarbe", "Acrylfarbe"],
+    "correctAnswer": 1,
+    "explanation": "Pastell sind trockene Farbstifte für weiche, pudrige Malerei."
+  },
+  {
+    "question": "Wer schuf 'Der Denker'?",
+    "answers": ["Michelangelo", "Auguste Rodin", "Donatello", "Henry Moore"],
+    "correctAnswer": 1,
+    "explanation": "Auguste Rodin schuf die berühmte Bronzeskulptur 'Der Denker'."
+  },
+  {
+    "question": "Was ist Art Nouveau?",
+    "answers": ["Moderne Kunst", "Jugendstil", "Pop Art", "Minimalismus"],
+    "correctAnswer": 1,
+    "explanation": "Art Nouveau ist die französische Bezeichnung für Jugendstil."
+  },
+  {
+    "question": "Wer malte 'Die Erschaffung Adams'?",
+    "answers": ["Leonardo da Vinci", "Raffael", "Michelangelo", "Tizian"],
+    "correctAnswer": 2,
+    "explanation": "Michelangelo malte 'Die Erschaffung Adams' an der Decke der Sixtinischen Kapelle."
+  },
+  {
+    "question": "Was ist ein Relief?",
+    "answers": ["Freistehende Skulptur", "Hervorragende Darstellung auf einer Fläche", "Gemälde", "Mosaik"],
+    "correctAnswer": 1,
+    "explanation": "Ein Relief ist eine plastische Darstellung, die aus einer Fläche hervortritt."
+  },
+  {
+    "question": "Wer malte 'Sonnenblumen'?",
+    "answers": ["Claude Monet", "Paul Gauguin", "Vincent van Gogh", "Henri Matisse"],
+    "correctAnswer": 2,
+    "explanation": "Vincent van Gogh malte mehrere berühmte Sonnenblumen-Gemälde."
+  },
+  {
+    "question": "Was ist Pointillismus?",
+    "answers": ["Malerei mit Punkten", "Abstrakte Kunst", "Fotorealismus", "Surrealismus"],
+    "correctAnswer": 0,
+    "explanation": "Pointillismus ist eine Maltechnik mit einzelnen Farbpunkten (z.B. Georges Seurat)."
+  },
+  {
+    "question": "Wer malte 'American Gothic'?",
+    "answers": ["Edward Hopper", "Grant Wood", "Georgia O'Keeffe", "Norman Rockwell"],
+    "correctAnswer": 1,
+    "explanation": "Grant Wood malte 1930 'American Gothic' mit Farmer und Heugabel."
+  },
+  {
+    "question": "Was ist ein Panorama?",
+    "answers": ["Porträt", "Weitwinkliges Rundgemälde", "Stillleben", "Miniatur"],
+    "correctAnswer": 1,
+    "explanation": "Ein Panorama ist ein großformatiges Rundgemälde mit Rundumblick."
+  },
+  {
+    "question": "Wer malte 'Die Freiheit führt das Volk'?",
+    "answers": ["Jacques-Louis David", "Eugène Delacroix", "Jean-Auguste-Dominique Ingres", "Théodore Géricault"],
+    "correctAnswer": 1,
+    "explanation": "Eugène Delacroix malte 1830 'Die Freiheit führt das Volk'."
+  },
+  {
+    "question": "Was ist Abstrakte Kunst?",
+    "answers": ["Realistische Darstellung", "Nicht-gegenständliche Kunst", "Porträtmalerei", "Landschaftsmalerei"],
+    "correctAnswer": 1,
+    "explanation": "Abstrakte Kunst verzichtet auf erkennbare Darstellung der Realität."
+  },
+  {
+    "question": "Wer malte 'Die Schule von Athen'?",
+    "answers": ["Leonardo da Vinci", "Michelangelo", "Raffael", "Tizian"],
+    "correctAnswer": 2,
+    "explanation": "Raffael malte 'Die Schule von Athen' 1509-1511 im Vatikan."
+  },
+  {
+    "question": "Was ist ein Diptychon?",
+    "answers": ["Zweiteiliges Gemälde", "Dreiteiliges Gemälde", "Rundes Gemälde", "Skulptur"],
+    "correctAnswer": 0,
+    "explanation": "Ein Diptychon ist ein zweiteiliges, zusammenhängendes Gemälde."
+  },
+  {
+    "question": "Wer malte 'Nighthawks'?",
+    "answers": ["Edward Hopper", "Grant Wood", "Georgia O'Keeffe", "Andrew Wyeth"],
+    "correctAnswer": 0,
+    "explanation": "Edward Hopper malte 1942 'Nighthawks', das einsame Diner bei Nacht."
+  },
+  {
+    "question": "Was ist Fauvismus?",
+    "answers": ["Realistische Kunst", "Wilde Farben ohne Naturtreue", "Schwarz-Weiß-Kunst", "Fotografie"],
+    "correctAnswer": 1,
+    "explanation": "Fauvismus (franz. 'wilde Bestien') nutzt kräftige, unrealistische Farben."
+  },
+  {
+    "question": "Wer schuf die Freiheitsstatue?",
+    "answers": ["Auguste Rodin", "Frédéric-Auguste Bartholdi", "Camille Claudel", "Constantin Brancusi"],
+    "correctAnswer": 1,
+    "explanation": "Frédéric-Auguste Bartholdi entwarf die Freiheitsstatue."
+  },
+  {
+    "question": "Was ist ein Tondo?",
+    "answers": ["Rundes Gemälde", "Dreieckiges Gemälde", "Rechteckiges Gemälde", "Ovales Gemälde"],
+    "correctAnswer": 0,
+    "explanation": "Ein Tondo ist ein rundes oder kreisförmiges Gemälde."
+  },
+  {
+    "question": "Wer malte 'Las Meninas'?",
+    "answers": ["Goya", "El Greco", "Diego Velázquez", "Francisco de Zurbarán"],
+    "correctAnswer": 2,
+    "explanation": "Diego Velázquez malte 1656 'Las Meninas' (Die Hoffräulein)."
+  },
+  {
+    "question": "Was ist Sfumato?",
+    "answers": ["Weiche Übergänge ohne Linien", "Starke Kontraste", "Punktmalerei", "Geometrische Formen"],
+    "correctAnswer": 0,
+    "explanation": "Sfumato ist eine Maltechnik mit weichen, verschwommenen Übergängen (Leonardo da Vinci)."
+  },
+  {
+    "question": "Wer malte 'Die Geburt der Venus' im Rokoko-Stil?",
+    "answers": ["François Boucher", "Jean-Honoré Fragonard", "Antoine Watteau", "Nicolas Poussin"],
+    "correctAnswer": 0,
+    "explanation": "François Boucher malte mehrere Versionen der Venus im Rokoko-Stil."
+  },
+  {
+    "question": "Was ist ein Atelier?",
+    "answers": ["Museum", "Künstlerwerkstatt", "Galerie", "Auktionshaus"],
+    "correctAnswer": 1,
+    "explanation": "Ein Atelier ist die Werkstatt oder das Arbeitszimmer eines Künstlers."
+  },
+  {
+    "question": "Wer malte 'Die Arnolfini-Hochzeit'?",
+    "answers": ["Hieronymus Bosch", "Pieter Bruegel", "Jan van Eyck", "Rogier van der Weyden"],
+    "correctAnswer": 2,
+    "explanation": "Jan van Eyck malte 1434 'Die Arnolfini-Hochzeit'."
+  },
+  {
+    "question": "Was ist Grisaille?",
+    "answers": ["Farbenfrohe Malerei", "Grau-in-Grau-Malerei", "Goldmalerei", "Schwarzmalerei"],
+    "correctAnswer": 1,
+    "explanation": "Grisaille ist eine Maltechnik nur in Grautönen."
+  },
+  {
+    "question": "Wer malte 'Der Garten der Lüste'?",
+    "answers": ["Pieter Bruegel", "Hieronymus Bosch", "Jan van Eyck", "Albrecht Dürer"],
+    "correctAnswer": 1,
+    "explanation": "Hieronymus Bosch malte das surreale Triptychon 'Der Garten der Lüste'."
+  },
+  {
+    "question": "Was ist die Renaissance?",
+    "answers": ["Mittelalter", "Wiedergeburt der Antike", "Moderne Kunst", "Romantik"],
+    "correctAnswer": 1,
+    "explanation": "Renaissance bedeutet 'Wiedergeburt' und bezeichnet die Wiederbelebung antiker Ideale."
+  },
+  {
+    "question": "Wer malte 'Olympia'?",
+    "answers": ["Édouard Manet", "Claude Monet", "Pierre-Auguste Renoir", "Edgar Degas"],
+    "correctAnswer": 0,
+    "explanation": "Édouard Manet malte 1863 'Olympia', ein skandalöses Aktgemälde."
+  },
+  {
+    "question": "Was ist ein Porträt?",
+    "answers": ["Landschaftsbild", "Personendarstellung", "Tierdarstellung", "Stillleben"],
+    "correctAnswer": 1,
+    "explanation": "Ein Porträt ist die bildliche Darstellung einer Person."
+  },
+  {
+    "question": "Wer malte 'Die große Welle vor Kanagawa'?",
+    "answers": ["Hiroshige", "Hokusai", "Utamaro", "Kuniyoshi"],
+    "correctAnswer": 1,
+    "explanation": "Katsushika Hokusai schuf um 1830 diesen berühmten japanischen Holzschnitt."
+  },
+  {
+    "question": "Was ist Barock?",
+    "answers": ["Schlichte Kunst", "Prunkvolle, dramatische Kunst", "Abstrakte Kunst", "Minimalismus"],
+    "correctAnswer": 1,
+    "explanation": "Barock (17./18. Jh.) zeichnet sich durch Prunk, Dramatik und Bewegung aus."
+  },
+  {
+    "question": "Wer malte 'Frühstück im Grünen'?",
+    "answers": ["Claude Monet", "Édouard Manet", "Pierre-Auguste Renoir", "Paul Cézanne"],
+    "correctAnswer": 1,
+    "explanation": "Édouard Manet malte 1863 'Frühstück im Grünen', das einen Skandal auslöste."
+  },
+  {
+    "question": "Was ist ein Selbstporträt?",
+    "answers": ["Bild einer anderen Person", "Künstler malt sich selbst", "Landschaft", "Stillleben"],
+    "correctAnswer": 1,
+    "explanation": "Ein Selbstporträt ist ein Bild, in dem sich der Künstler selbst darstellt."
+  },
+  {
+    "question": "Wer malte 'Die Verkündigung'?",
+    "answers": ["Leonardo da Vinci", "Sandro Botticelli", "Fra Angelico", "Alle drei"],
+    "correctAnswer": 3,
+    "explanation": "Viele Renaissance-Künstler malten die Verkündigung, darunter alle drei genannten."
+  },
+  {
+    "question": "Was ist Rokoko?",
+    "answers": ["Düstere Kunst", "Verspielte, elegante Kunst", "Abstrakte Kunst", "Realismus"],
+    "correctAnswer": 1,
+    "explanation": "Rokoko (18. Jh.) ist eine verspielte, elegante und leichte Stilrichtung."
+  },
+  {
+    "question": "Wer malte 'Der Wanderer über dem Nebelmeer'?",
+    "answers": ["Caspar David Friedrich", "William Turner", "John Constable", "Théodore Géricault"],
+    "correctAnswer": 0,
+    "explanation": "Caspar David Friedrich malte um 1818 dieses romantische Meisterwerk."
+  },
+  {
+    "question": "Was ist Ikonografie?",
+    "answers": ["Maltechnik", "Bildinhalte und deren Bedeutung", "Farbenlehre", "Perspektive"],
+    "correctAnswer": 1,
+    "explanation": "Ikonografie ist die Lehre von Bildinhalten und deren symbolischer Bedeutung."
+  },
+  {
+    "question": "Wer malte 'Judith enthauptet Holofernes'?",
+    "answers": ["Caravaggio", "Artemisia Gentileschi", "Peter Paul Rubens", "Beide A und B"],
+    "correctAnswer": 3,
+    "explanation": "Sowohl Caravaggio als auch Artemisia Gentileschi malten dieses dramatische biblische Motiv."
+  },
+  {
+    "question": "Was ist Komplementärkontrast?",
+    "answers": ["Gleiche Farben", "Gegenüberliegende Farben im Farbkreis", "Schwarz-Weiß", "Pastellfarben"],
+    "correctAnswer": 1,
+    "explanation": "Komplementärfarben liegen sich im Farbkreis gegenüber (z.B. Rot-Grün, Blau-Orange)."
+  },
+  {
+    "question": "Wer malte 'Die Nachtschwärmer'?",
+    "answers": ["Jackson Pollock", "Mark Rothko", "Edward Hopper", "Andy Warhol"],
+    "correctAnswer": 2,
+    "explanation": "Edward Hopper malte 'Nighthawks' (Die Nachtschwärmer) 1942."
+  },
+  {
+    "question": "Was ist ein Mosaik?",
+    "answers": ["Gemälde", "Bild aus kleinen Steinchen", "Skulptur", "Fotografie"],
+    "correctAnswer": 1,
+    "explanation": "Ein Mosaik ist ein Bild aus zusammengesetzten kleinen Stein- oder Glasstückchen."
+  },
+  {
+    "question": "Wer malte 'Der Kuss' (andere Version)?",
+    "answers": ["Auguste Rodin", "Constantin Brancusi", "Gustav Klimt", "Camille Claudel"],
+    "correctAnswer": 0,
+    "explanation": "Auguste Rodin schuf auch eine berühmte Skulptur namens 'Der Kuss'."
+  },
+  {
+    "question": "Was ist Perspektive?",
+    "answers": ["Farbenlehre", "Räumliche Tiefenwirkung", "Maltechnik", "Bildformat"],
+    "correctAnswer": 1,
+    "explanation": "Perspektive ist die Technik, räumliche Tiefe auf einer flachen Fläche darzustellen."
+  },
+  {
+    "question": "Wer malte 'Tanz'?",
+    "answers": ["Pablo Picasso", "Henri Matisse", "Marc Chagall", "Fernand Léger"],
+    "correctAnswer": 1,
+    "explanation": "Henri Matisse malte 1909-1910 'Der Tanz' mit roten Figuren auf blau-grünem Grund."
+  },
+  {
+    "question": "Was ist ein Tempera-Gemälde?",
+    "answers": ["Ölmalerei", "Malerei mit Ei-Bindemittel", "Wasserfarben", "Acryl"],
+    "correctAnswer": 1,
+    "explanation": "Tempera ist eine Maltechnik mit Ei als Bindemittel für Farbpigmente."
+  },
+  {
+    "question": "Wer malte 'Die Geburt der Milchstraße'?",
+    "answers": ["Tizian", "Tintoretto", "Veronese", "Caravaggio"],
+    "correctAnswer": 1,
+    "explanation": "Jacopo Tintoretto malte um 1575 'Die Geburt der Milchstraße'."
+  },
+  {
+    "question": "Was ist Art Deco?",
+    "answers": ["Mittelalterlicher Stil", "Eleganter Stil der 1920er-30er", "Pop Art", "Minimalismus"],
+    "correctAnswer": 1,
+    "explanation": "Art Deco ist ein eleganter, geometrischer Stil der 1920er und 1930er Jahre."
+  },
+  {
+    "question": "Wer malte 'Impression: Sonnenaufgang'?",
+    "answers": ["Pierre-Auguste Renoir", "Claude Monet", "Edgar Degas", "Camille Pissarro"],
+    "correctAnswer": 1,
+    "explanation": "Claude Monet malte 1872 dieses Werk, das dem Impressionismus seinen Namen gab."
+  },
+  {
+    "question": "Was ist ein Holzschnitt?",
+    "answers": ["Malerei", "Drucktechnik mit Holzplatte", "Skulptur", "Zeichnung"],
+    "correctAnswer": 1,
+    "explanation": "Holzschnitt ist eine Hochdrucktechnik, bei der aus Holz geschnitten wird."
+  },
+  {
+    "question": "Wer malte 'Christina's World'?",
+    "answers": ["Edward Hopper", "Grant Wood", "Andrew Wyeth", "Georgia O'Keeffe"],
+    "correctAnswer": 2,
+    "explanation": "Andrew Wyeth malte 1948 'Christina's World' mit der gelähmten Christina Olson."
+  },
+  {
+    "question": "Was ist ein Altarbild?",
+    "answers": ["Landschaft", "Religiöses Bild für Altäre", "Porträt", "Stillleben"],
+    "correctAnswer": 1,
+    "explanation": "Ein Altarbild ist ein religiöses Gemälde oder Relief für kirchliche Altäre."
+  },
+  {
+    "question": "Wer malte 'Die Erschießung der Aufständischen'?",
+    "answers": ["Diego Velázquez", "Francisco de Goya", "El Greco", "Pablo Picasso"],
+    "correctAnswer": 1,
+    "explanation": "Francisco de Goya malte 1814 'Die Erschießung der Aufständischen am 3. Mai 1808'."
+  },
+  {
+    "question": "Was ist Minimalismus?",
+    "answers": ["Überladene Kunst", "Reduktion auf das Wesentliche", "Barocke Kunst", "Romantik"],
+    "correctAnswer": 1,
+    "explanation": "Minimalismus reduziert Kunst auf einfachste, wesentliche Elemente."
+  },
+  {
+    "question": "Wer malte 'Bal du moulin de la Galette'?",
+    "answers": ["Claude Monet", "Edgar Degas", "Pierre-Auguste Renoir", "Camille Pissarro"],
+    "correctAnswer": 2,
+    "explanation": "Pierre-Auguste Renoir malte 1876 dieses impressionistische Meisterwerk."
+  },
+  {
+    "question": "Was ist eine Palette?",
+    "answers": ["Leinwand", "Farbmischplatte", "Pinsel", "Staffelei"],
+    "correctAnswer": 1,
+    "explanation": "Eine Palette ist die Platte, auf der Künstler Farben mischen."
+  },
+  {
+    "question": "Wer malte 'Die Schlafende Venus'?",
+    "answers": ["Tizian", "Giorgione", "Tintoretto", "Veronese"],
+    "correctAnswer": 1,
+    "explanation": "Giorgione malte um 1510 'Die schlafende Venus', vollendet von Tizian."
+  },
+  {
+    "question": "Was ist Jugendstil?",
+    "answers": ["Moderne Kunst", "Ornamentaler Stil um 1900", "Abstrakte Kunst", "Realismus"],
+    "correctAnswer": 1,
+    "explanation": "Jugendstil (ca. 1890-1910) zeichnet sich durch ornamentale, geschwungene Formen aus."
+  },
+  {
+    "question": "Wer malte 'Die Musikstunde'?",
+    "answers": ["Rembrandt", "Johannes Vermeer", "Frans Hals", "Jan Steen"],
+    "correctAnswer": 1,
+    "explanation": "Johannes Vermeer malte um 1662-1665 'Die Musikstunde'."
+  },
+  {
+    "question": "Was ist ein Kontrast?",
+    "answers": ["Gleichheit", "Gegensatz", "Harmonie", "Symmetrie"],
+    "correctAnswer": 1,
+    "explanation": "Kontrast ist der Gegensatz zwischen Elementen wie hell-dunkel, warm-kalt."
+  },
+  {
+    "question": "Wer malte 'Die Badenden'?",
+    "answers": ["Claude Monet", "Paul Cézanne", "Pierre-Auguste Renoir", "Edgar Degas"],
+    "correctAnswer": 1,
+    "explanation": "Paul Cézanne malte mehrere Versionen von 'Die Badenden'."
+  },
+  {
+    "question": "Was ist eine Staffelei?",
+    "answers": ["Pinsel", "Gestell für Leinwände", "Farbe", "Rahmen"],
+    "correctAnswer": 1,
+    "explanation": "Eine Staffelei ist das Gestell, auf dem Künstler ihre Leinwände platzieren."
+  }
+]

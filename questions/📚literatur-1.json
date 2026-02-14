@@ -1,0 +1,590 @@
+[
+  {
+    "question": "Wer schrieb 'Faust'?",
+    "answers": ["Friedrich Schiller", "Johann Wolfgang von Goethe", "Heinrich Heine", "Gotthold Ephraim Lessing"],
+    "correctAnswer": 1,
+    "explanation": "Johann Wolfgang von Goethe schrieb das Drama 'Faust' (Teil I: 1808, Teil II: 1832)."
+  },
+  {
+    "question": "Wer schrieb 'Romeo und Julia'?",
+    "answers": ["Charles Dickens", "William Shakespeare", "Oscar Wilde", "George Bernard Shaw"],
+    "correctAnswer": 1,
+    "explanation": "William Shakespeare schrieb die Tragödie 'Romeo und Julia' um 1595."
+  },
+  {
+    "question": "Aus welchem Land stammte Franz Kafka?",
+    "answers": ["Deutschland", "Österreich", "Tschechien (damals Böhmen)", "Polen"],
+    "correctAnswer": 2,
+    "explanation": "Franz Kafka wurde 1883 in Prag geboren, damals Teil von Österreich-Ungarn."
+  },
+  {
+    "question": "Wer schrieb '1984'?",
+    "answers": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Arthur C. Clarke"],
+    "correctAnswer": 1,
+    "explanation": "George Orwell schrieb den dystopischen Roman '1984' im Jahr 1949."
+  },
+  {
+    "question": "Was ist ein Sonett?",
+    "answers": ["Ein 14-zeiliges Gedicht", "Ein Roman", "Ein Drama", "Eine Kurzgeschichte"],
+    "correctAnswer": 0,
+    "explanation": "Ein Sonett ist eine Gedichtform mit 14 Versen."
+  },
+  {
+    "question": "Wer schrieb 'Die Verwandlung'?",
+    "answers": ["Thomas Mann", "Franz Kafka", "Hermann Hesse", "Robert Musil"],
+    "correctAnswer": 1,
+    "explanation": "Franz Kafka schrieb 1912 die Erzählung 'Die Verwandlung'."
+  },
+  {
+    "question": "Welcher Autor schuf Sherlock Holmes?",
+    "answers": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "G.K. Chesterton"],
+    "correctAnswer": 1,
+    "explanation": "Sir Arthur Conan Doyle schuf die Figur des Detektivs Sherlock Holmes."
+  },
+  {
+    "question": "Wer schrieb 'Der Prozess'?",
+    "answers": ["Franz Kafka", "Albert Camus", "Jean-Paul Sartre", "Friedrich Dürrenmatt"],
+    "correctAnswer": 0,
+    "explanation": "Franz Kafka schrieb den Roman 'Der Prozess' (veröffentlicht 1925)."
+  },
+  {
+    "question": "Was ist ein Haiku?",
+    "answers": ["Japanisches Kurzgedicht", "Chinesischer Roman", "Griechisches Drama", "Indisches Epos"],
+    "correctAnswer": 0,
+    "explanation": "Ein Haiku ist ein japanisches Kurzgedicht mit 17 Silben in 3 Zeilen (5-7-5)."
+  },
+  {
+    "question": "Wer schrieb 'Stolz und Vorurteil'?",
+    "answers": ["Charlotte Brontë", "Emily Brontë", "Jane Austen", "George Eliot"],
+    "correctAnswer": 2,
+    "explanation": "Jane Austen schrieb 'Stolz und Vorurteil' (Pride and Prejudice) 1813."
+  },
+  {
+    "question": "Wer schrieb 'Der alte Mann und das Meer'?",
+    "answers": ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner"],
+    "correctAnswer": 1,
+    "explanation": "Ernest Hemingway schrieb 'Der alte Mann und das Meer' 1952."
+  },
+  {
+    "question": "Was ist eine Metapher?",
+    "answers": ["Wörtliche Beschreibung", "Bildlicher Vergleich ohne 'wie'", "Übertreibung", "Wiederholung"],
+    "correctAnswer": 1,
+    "explanation": "Eine Metapher ist ein bildlicher Vergleich ohne Vergleichswort (z.B. 'Achilles ist ein Löwe')."
+  },
+  {
+    "question": "Wer schrieb 'Warten auf Godot'?",
+    "answers": ["Samuel Beckett", "Eugène Ionesco", "Jean-Paul Sartre", "Albert Camus"],
+    "correctAnswer": 0,
+    "explanation": "Samuel Beckett schrieb das absurde Drama 'Warten auf Godot' 1952."
+  },
+  {
+    "question": "Welche Sprache schrieb Dante Alighieri?",
+    "answers": ["Latein", "Italienisch", "Spanisch", "Französisch"],
+    "correctAnswer": 1,
+    "explanation": "Dante schrieb die 'Göttliche Komödie' in italienischer Sprache."
+  },
+  {
+    "question": "Wer schrieb 'Moby Dick'?",
+    "answers": ["Mark Twain", "Herman Melville", "Edgar Allan Poe", "Nathaniel Hawthorne"],
+    "correctAnswer": 1,
+    "explanation": "Herman Melville schrieb 'Moby Dick' 1851."
+  },
+  {
+    "question": "Was ist ein Reim?",
+    "answers": ["Klanggleichheit am Versende", "Rhythmus", "Strophenform", "Versmaß"],
+    "correctAnswer": 0,
+    "explanation": "Ein Reim ist die Klanggleichheit von Wörtern, meist am Ende von Versen."
+  },
+  {
+    "question": "Wer schrieb 'Harry Potter'?",
+    "answers": ["J.R.R. Tolkien", "C.S. Lewis", "J.K. Rowling", "Philip Pullman"],
+    "correctAnswer": 2,
+    "explanation": "J.K. Rowling schrieb die Harry-Potter-Buchreihe (1997-2007)."
+  },
+  {
+    "question": "Wer schrieb 'Der Glöckner von Notre Dame'?",
+    "answers": ["Alexandre Dumas", "Victor Hugo", "Honoré de Balzac", "Émile Zola"],
+    "correctAnswer": 1,
+    "explanation": "Victor Hugo schrieb 'Der Glöckner von Notre Dame' 1831."
+  },
+  {
+    "question": "Was ist ein Protagonist?",
+    "answers": ["Nebenfigur", "Hauptfigur", "Bösewicht", "Erzähler"],
+    "correctAnswer": 1,
+    "explanation": "Der Protagonist ist die Hauptfigur einer Erzählung."
+  },
+  {
+    "question": "Wer schrieb 'Die Buddenbrooks'?",
+    "answers": ["Hermann Hesse", "Thomas Mann", "Heinrich Mann", "Theodor Fontane"],
+    "correctAnswer": 1,
+    "explanation": "Thomas Mann schrieb 'Buddenbrooks. Verfall einer Familie' 1901."
+  },
+  {
+    "question": "Wer schrieb 'Der Herr der Ringe'?",
+    "answers": ["C.S. Lewis", "J.K. Rowling", "J.R.R. Tolkien", "George R.R. Martin"],
+    "correctAnswer": 2,
+    "explanation": "J.R.R. Tolkien schrieb 'Der Herr der Ringe' (1954-1955)."
+  },
+  {
+    "question": "Was ist eine Allegorie?",
+    "answers": ["Wörtliche Erzählung", "Bildhafte Darstellung abstrakter Begriffe", "Komödie", "Tragödie"],
+    "correctAnswer": 1,
+    "explanation": "Eine Allegorie ist eine durchgängige bildhafte Darstellung eines abstrakten Begriffs."
+  },
+  {
+    "question": "Wer schrieb 'Frankenstein'?",
+    "answers": ["Edgar Allan Poe", "Bram Stoker", "Mary Shelley", "H.P. Lovecraft"],
+    "correctAnswer": 2,
+    "explanation": "Mary Shelley schrieb 'Frankenstein oder Der moderne Prometheus' 1818."
+  },
+  {
+    "question": "Wer schrieb 'Don Quijote'?",
+    "answers": ["Miguel de Cervantes", "Lope de Vega", "Federico García Lorca", "Pablo Neruda"],
+    "correctAnswer": 0,
+    "explanation": "Miguel de Cervantes schrieb 'Don Quijote' (Teil I: 1605, Teil II: 1615)."
+  },
+  {
+    "question": "Was ist ein Vers?",
+    "answers": ["Ein Absatz", "Eine Zeile in einem Gedicht", "Ein Kapitel", "Ein Reim"],
+    "correctAnswer": 1,
+    "explanation": "Ein Vers ist eine Zeile in einem Gedicht."
+  },
+  {
+    "question": "Wer schrieb 'Der kleine Prinz'?",
+    "answers": ["Antoine de Saint-Exupéry", "Albert Camus", "Jean-Paul Sartre", "Marcel Proust"],
+    "correctAnswer": 0,
+    "explanation": "Antoine de Saint-Exupéry schrieb 'Der kleine Prinz' 1943."
+  },
+  {
+    "question": "Wer schrieb 'Schuld und Sühne'?",
+    "answers": ["Leo Tolstoi", "Fjodor Dostojewski", "Anton Tschechow", "Iwan Turgenjew"],
+    "correctAnswer": 1,
+    "explanation": "Fjodor Dostojewski schrieb 'Schuld und Sühne' 1866."
+  },
+  {
+    "question": "Was ist eine Strophe?",
+    "answers": ["Ein Reim", "Eine Gedichtzeile", "Ein Vers-Abschnitt", "Ein ganzes Gedicht"],
+    "correctAnswer": 2,
+    "explanation": "Eine Strophe ist ein Abschnitt aus mehreren Versen in einem Gedicht."
+  },
+  {
+    "question": "Wer schrieb 'Die Göttliche Komödie'?",
+    "answers": ["Petrarca", "Boccaccio", "Dante Alighieri", "Ariosto"],
+    "correctAnswer": 2,
+    "explanation": "Dante Alighieri schrieb 'Die Göttliche Komödie' (ca. 1307-1321)."
+  },
+  {
+    "question": "Wer schrieb 'Der Fänger im Roggen'?",
+    "answers": ["Jack Kerouac", "J.D. Salinger", "John Steinbeck", "Truman Capote"],
+    "correctAnswer": 1,
+    "explanation": "J.D. Salinger schrieb 'Der Fänger im Roggen' 1951."
+  },
+  {
+    "question": "Was ist ein Antagonist?",
+    "answers": ["Hauptfigur", "Gegenspieler", "Erzähler", "Nebenfigur"],
+    "correctAnswer": 1,
+    "explanation": "Der Antagonist ist der Gegenspieler des Protagonisten."
+  },
+  {
+    "question": "Wer schrieb 'Krieg und Frieden'?",
+    "answers": ["Fjodor Dostojewski", "Leo Tolstoi", "Anton Tschechow", "Maxim Gorki"],
+    "correctAnswer": 1,
+    "explanation": "Leo Tolstoi schrieb den monumentalen Roman 'Krieg und Frieden' (1868)."
+  },
+  {
+    "question": "Wer schrieb 'Der Name der Rose'?",
+    "answers": ["Italo Calvino", "Umberto Eco", "Alberto Moravia", "Cesare Pavese"],
+    "correctAnswer": 1,
+    "explanation": "Umberto Eco schrieb den historischen Roman 'Der Name der Rose' 1980."
+  },
+  {
+    "question": "Was ist eine Ode?",
+    "answers": ["Lobgesang", "Spottgedicht", "Erzählung", "Drama"],
+    "correctAnswer": 0,
+    "explanation": "Eine Ode ist ein feierliches, preisendes Gedicht."
+  },
+  {
+    "question": "Wer schrieb 'Der Steppenwolf'?",
+    "answers": ["Thomas Mann", "Hermann Hesse", "Robert Musil", "Alfred Döblin"],
+    "correctAnswer": 1,
+    "explanation": "Hermann Hesse schrieb 'Der Steppenwolf' 1927."
+  },
+  {
+    "question": "Wer schrieb 'Macbeth'?",
+    "answers": ["Christopher Marlowe", "William Shakespeare", "Ben Jonson", "John Webster"],
+    "correctAnswer": 1,
+    "explanation": "William Shakespeare schrieb die Tragödie 'Macbeth' um 1606."
+  },
+  {
+    "question": "Was ist ein Epilog?",
+    "answers": ["Einleitung", "Nachwort", "Hauptteil", "Vorwort"],
+    "correctAnswer": 1,
+    "explanation": "Ein Epilog ist das Nachwort oder Schlusswort eines literarischen Werks."
+  },
+  {
+    "question": "Wer schrieb 'Anna Karenina'?",
+    "answers": ["Fjodor Dostojewski", "Anton Tschechow", "Leo Tolstoi", "Iwan Turgenew"],
+    "correctAnswer": 2,
+    "explanation": "Leo Tolstoi schrieb 'Anna Karenina' (1877-1878)."
+  },
+  {
+    "question": "Wer schrieb 'Der Zauberberg'?",
+    "answers": ["Hermann Hesse", "Robert Musil", "Thomas Mann", "Alfred Döblin"],
+    "correctAnswer": 2,
+    "explanation": "Thomas Mann schrieb 'Der Zauberberg' 1924."
+  },
+  {
+    "question": "Was ist ein Prolog?",
+    "answers": ["Nachwort", "Vorwort/Einleitung", "Hauptteil", "Schluss"],
+    "correctAnswer": 1,
+    "explanation": "Ein Prolog ist das Vorwort oder die Einleitung eines literarischen Werks."
+  },
+  {
+    "question": "Wer schrieb 'Die Pest'?",
+    "answers": ["Jean-Paul Sartre", "Albert Camus", "André Gide", "Louis-Ferdinand Céline"],
+    "correctAnswer": 1,
+    "explanation": "Albert Camus schrieb den Roman 'Die Pest' 1947."
+  },
+  {
+    "question": "Wer schrieb 'Hamlet'?",
+    "answers": ["Christopher Marlowe", "William Shakespeare", "Ben Jonson", "Thomas Kyd"],
+    "correctAnswer": 1,
+    "explanation": "William Shakespeare schrieb 'Hamlet' um 1600-1602."
+  },
+  {
+    "question": "Was ist eine Elegie?",
+    "answers": ["Lobgedicht", "Klagegedicht", "Spottgedicht", "Liebesgedicht"],
+    "correctAnswer": 1,
+    "explanation": "Eine Elegie ist ein klagendes, wehmütiges Gedicht."
+  },
+  {
+    "question": "Wer schrieb 'Das Parfum'?",
+    "answers": ["Günter Grass", "Patrick Süskind", "Martin Walser", "Siegfried Lenz"],
+    "correctAnswer": 1,
+    "explanation": "Patrick Süskind schrieb 'Das Parfum. Die Geschichte eines Mörders' 1985."
+  },
+  {
+    "question": "Wer schrieb 'Dracula'?",
+    "answers": ["Mary Shelley", "Edgar Allan Poe", "Bram Stoker", "H.P. Lovecraft"],
+    "correctAnswer": 2,
+    "explanation": "Bram Stoker schrieb 'Dracula' 1897."
+  },
+  {
+    "question": "Was ist ein Monolog?",
+    "answers": ["Dialog", "Einzelrede", "Erzählung", "Beschreibung"],
+    "correctAnswer": 1,
+    "explanation": "Ein Monolog ist die Rede einer einzelnen Person ohne Gesprächspartner."
+  },
+  {
+    "question": "Wer schrieb 'Die Blechtrommel'?",
+    "answers": ["Heinrich Böll", "Günter Grass", "Siegfried Lenz", "Martin Walser"],
+    "correctAnswer": 1,
+    "explanation": "Günter Grass schrieb 'Die Blechtrommel' 1959."
+  },
+  {
+    "question": "Wer schrieb 'Ulysses'?",
+    "answers": ["James Joyce", "Virginia Woolf", "T.S. Eliot", "D.H. Lawrence"],
+    "correctAnswer": 0,
+    "explanation": "James Joyce schrieb den Jahrhundertroman 'Ulysses' 1922."
+  },
+  {
+    "question": "Was ist eine Satire?",
+    "answers": ["Lobrede", "Spöttische Kritik", "Tragödie", "Liebesgedicht"],
+    "correctAnswer": 1,
+    "explanation": "Eine Satire ist eine spöttische, kritische Darstellung von Missständen."
+  },
+  {
+    "question": "Wer schrieb 'Effi Briest'?",
+    "answers": ["Theodor Storm", "Gottfried Keller", "Theodor Fontane", "Wilhelm Raabe"],
+    "correctAnswer": 2,
+    "explanation": "Theodor Fontane schrieb den Roman 'Effi Briest' 1895."
+  },
+  {
+    "question": "Wer schrieb 'Auf der Suche nach der verlorenen Zeit'?",
+    "answers": ["André Gide", "Marcel Proust", "Albert Camus", "Jean-Paul Sartre"],
+    "correctAnswer": 1,
+    "explanation": "Marcel Proust schrieb das siebenbändige Werk 'Auf der Suche nach der verlorenen Zeit' (1913-1927)."
+  },
+  {
+    "question": "Was ist ein Dialog?",
+    "answers": ["Einzelrede", "Wechselrede", "Erzählung", "Beschreibung"],
+    "correctAnswer": 1,
+    "explanation": "Ein Dialog ist ein Gespräch zwischen zwei oder mehr Personen."
+  },
+  {
+    "question": "Wer schrieb 'Der Untertan'?",
+    "answers": ["Thomas Mann", "Heinrich Mann", "Hermann Hesse", "Alfred Döblin"],
+    "correctAnswer": 1,
+    "explanation": "Heinrich Mann schrieb den satirischen Roman 'Der Untertan' (1914/1918)."
+  },
+  {
+    "question": "Wer schrieb 'Aus dem Leben eines Taugenichts'?",
+    "answers": ["Joseph von Eichendorff", "Clemens Brentano", "E.T.A. Hoffmann", "Ludwig Tieck"],
+    "correctAnswer": 0,
+    "explanation": "Joseph von Eichendorff schrieb diese romantische Novelle 1826."
+  },
+  {
+    "question": "Was ist eine Novelle?",
+    "answers": ["Langer Roman", "Mittellange Erzählung", "Kurzes Gedicht", "Drama"],
+    "correctAnswer": 1,
+    "explanation": "Eine Novelle ist eine mittellange Erzählung mit straffer Handlung."
+  },
+  {
+    "question": "Wer schrieb 'Corpus Delicti'?",
+    "answers": ["Daniel Kehlmann", "Juli Zeh", "Cornelia Funke", "Bernhard Schlink"],
+    "correctAnswer": 1,
+    "explanation": "Juli Zeh schrieb den dystopischen Roman 'Corpus Delicti' 2009."
+  },
+  {
+    "question": "Wer schrieb 'Der Vorleser'?",
+    "answers": ["Günter Grass", "Martin Walser", "Bernhard Schlink", "Patrick Süskind"],
+    "correctAnswer": 2,
+    "explanation": "Bernhard Schlink schrieb 'Der Vorleser' 1995."
+  },
+  {
+    "question": "Was ist ein Vergleich?",
+    "answers": ["Metapher", "Gleichsetzung mit 'wie'", "Übertreibung", "Personifikation"],
+    "correctAnswer": 1,
+    "explanation": "Ein Vergleich stellt Ähnlichkeiten mit Wörtern wie 'wie' oder 'als' her."
+  },
+  {
+    "question": "Wer schrieb 'Die Marquise von O...'?",
+    "answers": ["E.T.A. Hoffmann", "Heinrich von Kleist", "Clemens Brentano", "Ludwig Tieck"],
+    "correctAnswer": 1,
+    "explanation": "Heinrich von Kleist schrieb die Novelle 'Die Marquise von O...' 1808."
+  },
+  {
+    "question": "Wer schrieb 'Der Schwarm'?",
+    "answers": ["Andreas Eschbach", "Frank Schätzing", "Marc Elsberg", "Daniel Kehlmann"],
+    "correctAnswer": 1,
+    "explanation": "Frank Schätzing schrieb den Science-Thriller 'Der Schwarm' 2004."
+  },
+  {
+    "question": "Was ist eine Personifikation?",
+    "answers": ["Übertreibung", "Vermenschlichung", "Vergleich", "Wörtliche Rede"],
+    "correctAnswer": 1,
+    "explanation": "Personifikation ist die Vermenschlichung von Dingen oder abstrakten Begriffen."
+  },
+  {
+    "question": "Wer schrieb 'Im Westen nichts Neues'?",
+    "answers": ["Ernst Jünger", "Erich Maria Remarque", "Arnold Zweig", "Ludwig Renn"],
+    "correctAnswer": 1,
+    "explanation": "Erich Maria Remarque schrieb den Antikriegsroman 'Im Westen nichts Neues' 1928."
+  },
+  {
+    "question": "Wer schrieb 'Die Leiden des jungen Werther'?",
+    "answers": ["Friedrich Schiller", "Johann Wolfgang von Goethe", "Friedrich Hölderlin", "Novalis"],
+    "correctAnswer": 1,
+    "explanation": "Johann Wolfgang von Goethe schrieb 'Die Leiden des jungen Werther' 1774."
+  },
+  {
+    "question": "Was ist eine Hyperbel?",
+    "answers": ["Untertreibung", "Übertreibung", "Vergleich", "Wiederholung"],
+    "correctAnswer": 1,
+    "explanation": "Eine Hyperbel ist eine starke Übertreibung (z.B. 'todmüde')."
+  },
+  {
+    "question": "Wer schrieb 'Berlin Alexanderplatz'?",
+    "answers": ["Alfred Döblin", "Bertolt Brecht", "Heinrich Mann", "Lion Feuchtwanger"],
+    "correctAnswer": 0,
+    "explanation": "Alfred Döblin schrieb 'Berlin Alexanderplatz' 1929."
+  },
+  {
+    "question": "Wer schrieb 'Der Mann ohne Eigenschaften'?",
+    "answers": ["Thomas Mann", "Hermann Hesse", "Robert Musil", "Hermann Broch"],
+    "correctAnswer": 2,
+    "explanation": "Robert Musil schrieb den unvollendeten Roman 'Der Mann ohne Eigenschaften' (1930-1943)."
+  },
+  {
+    "question": "Was ist ein Symbol?",
+    "answers": ["Wörtliche Bedeutung", "Sinnbild mit tieferer Bedeutung", "Übertreibung", "Vergleich"],
+    "correctAnswer": 1,
+    "explanation": "Ein Symbol ist ein Zeichen oder Bild mit tieferer, über sich hinausweisender Bedeutung."
+  },
+  {
+    "question": "Wer schrieb 'Die Verwandlung'?",
+    "answers": ["Thomas Mann", "Franz Kafka", "Hermann Hesse", "Robert Walser"],
+    "correctAnswer": 1,
+    "explanation": "Franz Kafka schrieb 'Die Verwandlung' 1912."
+  },
+  {
+    "question": "Wer schrieb 'Der Graf von Monte Cristo'?",
+    "answers": ["Victor Hugo", "Alexandre Dumas", "Gustave Flaubert", "Honoré de Balzac"],
+    "correctAnswer": 1,
+    "explanation": "Alexandre Dumas schrieb 'Der Graf von Monte Cristo' 1844-1846."
+  },
+  {
+    "question": "Was ist eine Parabel?",
+    "answers": ["Lustige Geschichte", "Lehrhafte Gleichniserzählung", "Liebesgedicht", "Heldenepos"],
+    "correctAnswer": 1,
+    "explanation": "Eine Parabel ist eine lehrhafte Erzählung mit übertragener Bedeutung."
+  },
+  {
+    "question": "Wer schrieb 'Narziss und Goldmund'?",
+    "answers": ["Thomas Mann", "Robert Musil", "Hermann Hesse", "Stefan Zweig"],
+    "correctAnswer": 2,
+    "explanation": "Hermann Hesse schrieb 'Narziss und Goldmund' 1930."
+  },
+  {
+    "question": "Wer schrieb 'Die drei Musketiere'?",
+    "answers": ["Victor Hugo", "Jules Verne", "Alexandre Dumas", "Émile Zola"],
+    "correctAnswer": 2,
+    "explanation": "Alexandre Dumas schrieb 'Die drei Musketiere' 1844."
+  },
+  {
+    "question": "Was ist ein Epos?",
+    "answers": ["Kurzgedicht", "Heldenepos", "Drama", "Novelle"],
+    "correctAnswer": 1,
+    "explanation": "Ein Epos ist eine lange erzählende Dichtung über Heldentaten."
+  },
+  {
+    "question": "Wer schrieb 'Siddhartha'?",
+    "answers": ["Thomas Mann", "Hermann Hesse", "Robert Musil", "Alfred Döblin"],
+    "correctAnswer": 1,
+    "explanation": "Hermann Hesse schrieb 'Siddhartha' 1922."
+  },
+  {
+    "question": "Wer schrieb 'Ein Sommernachtstraum'?",
+    "answers": ["Christopher Marlowe", "William Shakespeare", "Ben Jonson", "John Webster"],
+    "correctAnswer": 1,
+    "explanation": "William Shakespeare schrieb die Komödie 'Ein Sommernachtstraum' um 1595."
+  },
+  {
+    "question": "Was ist eine Ballade?",
+    "answers": ["Liebesgedicht", "Erzählgedicht", "Spottgedicht", "Naturgedicht"],
+    "correctAnswer": 1,
+    "explanation": "Eine Ballade ist ein erzählendes Gedicht, oft mit dramatischem Inhalt."
+  },
+  {
+    "question": "Wer schrieb 'Tonio Kröger'?",
+    "answers": ["Hermann Hesse", "Thomas Mann", "Heinrich Mann", "Arthur Schnitzler"],
+    "correctAnswer": 1,
+    "explanation": "Thomas Mann schrieb die Novelle 'Tonio Kröger' 1903."
+  },
+  {
+    "question": "Wer schrieb 'Die Verwandlung eines Schmetterlings'?",
+    "answers": ["Franz Kafka", "Hermann Hesse", "Robert Musil", "Kafka schrieb 'Die Verwandlung'"],
+    "correctAnswer": 3,
+    "explanation": "Der Titel ist 'Die Verwandlung', nicht 'Verwandlung eines Schmetterlings'."
+  },
+  {
+    "question": "Was ist Ironie?",
+    "answers": ["Wörtliche Rede", "Gemeintes Gegenteil des Gesagten", "Übertreibung", "Vergleich"],
+    "correctAnswer": 1,
+    "explanation": "Ironie meint das Gegenteil des wörtlich Gesagten."
+  },
+  {
+    "question": "Wer schrieb 'Andorra'?",
+    "answers": ["Bertolt Brecht", "Max Frisch", "Friedrich Dürrenmatt", "Peter Handke"],
+    "correctAnswer": 1,
+    "explanation": "Max Frisch schrieb das Drama 'Andorra' 1961."
+  },
+  {
+    "question": "Wer schrieb 'Der Besuch der alten Dame'?",
+    "answers": ["Bertolt Brecht", "Max Frisch", "Friedrich Dürrenmatt", "Carl Zuckmayer"],
+    "correctAnswer": 2,
+    "explanation": "Friedrich Dürrenmatt schrieb 'Der Besuch der alten Dame' 1956."
+  },
+  {
+    "question": "Was ist ein Limerick?",
+    "answers": ["Deutsches Gedicht", "Fünfzeiliges humoristisches Gedicht", "Japanisches Gedicht", "Trauriges Gedicht"],
+    "correctAnswer": 1,
+    "explanation": "Ein Limerick ist ein fünfzeiliges humoristisches Gedicht mit festem Reimschema."
+  },
+  {
+    "question": "Wer schrieb 'Der Schimmelreiter'?",
+    "answers": ["Theodor Fontane", "Theodor Storm", "Gottfried Keller", "Conrad Ferdinand Meyer"],
+    "correctAnswer": 1,
+    "explanation": "Theodor Storm schrieb die Novelle 'Der Schimmelreiter' 1888."
+  },
+  {
+    "question": "Wer schrieb 'Die Physiker'?",
+    "answers": ["Bertolt Brecht", "Max Frisch", "Friedrich Dürrenmatt", "Peter Weiss"],
+    "correctAnswer": 2,
+    "explanation": "Friedrich Dürrenmatt schrieb die Komödie 'Die Physiker' 1961."
+  },
+  {
+    "question": "Was ist ein Anapher?",
+    "answers": ["Reimform", "Wiederholung am Satzanfang", "Übertreibung", "Vergleich"],
+    "correctAnswer": 1,
+    "explanation": "Eine Anapher ist die Wiederholung eines Wortes am Anfang aufeinanderfolgender Sätze."
+  },
+  {
+    "question": "Wer schrieb 'Katz und Maus'?",
+    "answers": ["Heinrich Böll", "Günter Grass", "Siegfried Lenz", "Wolfgang Koeppen"],
+    "correctAnswer": 1,
+    "explanation": "Günter Grass schrieb die Novelle 'Katz und Maus' 1961."
+  },
+  {
+    "question": "Wer schrieb 'Wo warst du, Adam?'?",
+    "answers": ["Günter Grass", "Heinrich Böll", "Siegfried Lenz", "Wolfgang Borchert"],
+    "correctAnswer": 1,
+    "explanation": "Heinrich Böll schrieb den Antikriegsroman 'Wo warst du, Adam?' 1951."
+  },
+  {
+    "question": "Was ist ein Oxymoron?",
+    "answers": ["Wiederholung", "Widersprüchliche Begriffskombination", "Übertreibung", "Vergleich"],
+    "correctAnswer": 1,
+    "explanation": "Ein Oxymoron verbindet widersprüchliche Begriffe (z.B. 'bittersüß')."
+  },
+  {
+    "question": "Wer schrieb 'Homo Faber'?",
+    "answers": ["Max Frisch", "Friedrich Dürrenmatt", "Hermann Hesse", "Thomas Mann"],
+    "correctAnswer": 0,
+    "explanation": "Max Frisch schrieb den Roman 'Homo Faber' 1957."
+  },
+  {
+    "question": "Wer schrieb 'Emilia Galotti'?",
+    "answers": ["Johann Wolfgang von Goethe", "Friedrich Schiller", "Gotthold Ephraim Lessing", "Heinrich von Kleist"],
+    "correctAnswer": 2,
+    "explanation": "Gotthold Ephraim Lessing schrieb das bürgerliche Trauerspiel 'Emilia Galotti' 1772."
+  },
+  {
+    "question": "Was ist ein Chiasmus?",
+    "answers": ["Wiederholung", "Überkreuzstellung", "Übertreibung", "Vergleich"],
+    "correctAnswer": 1,
+    "explanation": "Ein Chiasmus ist eine überkreuzte Stellung von Satzgliedern (z.B. 'Die Kunst ist lang, kurz ist das Leben')."
+  },
+  {
+    "question": "Wer schrieb 'Draußen vor der Tür'?",
+    "answers": ["Heinrich Böll", "Wolfgang Borchert", "Günter Eich", "Paul Celan"],
+    "correctAnswer": 1,
+    "explanation": "Wolfgang Borchert schrieb das Heimkehrerdrama 'Draußen vor der Tür' 1947."
+  },
+  {
+    "question": "Wer schrieb 'Nathan der Weise'?",
+    "answers": ["Johann Wolfgang von Goethe", "Friedrich Schiller", "Gotthold Ephraim Lessing", "Heinrich von Kleist"],
+    "correctAnswer": 2,
+    "explanation": "Gotthold Ephraim Lessing schrieb das Drama 'Nathan der Weise' 1779."
+  },
+  {
+    "question": "Was ist ein Enjambement?",
+    "answers": ["Endreim", "Zeilensprung", "Strophe", "Versmaß"],
+    "correctAnswer": 1,
+    "explanation": "Ein Enjambement ist ein Zeilensprung, bei dem ein Satz über das Versende hinausgeht."
+  },
+  {
+    "question": "Wer schrieb 'Die Räuber'?",
+    "answers": ["Johann Wolfgang von Goethe", "Friedrich Schiller", "Heinrich von Kleist", "Gotthold Ephraim Lessing"],
+    "correctAnswer": 1,
+    "explanation": "Friedrich Schiller schrieb das Drama 'Die Räuber' 1781."
+  },
+  {
+    "question": "Wer schrieb 'Der zerbrochne Krug'?",
+    "answers": ["Johann Wolfgang von Goethe", "Friedrich Schiller", "Heinrich von Kleist", "Georg Büchner"],
+    "correctAnswer": 2,
+    "explanation": "Heinrich von Kleist schrieb die Komödie 'Der zerbrochne Krug' 1808."
+  },
+  {
+    "question": "Was ist ein Jambus?",
+    "answers": ["Reimschema", "Versmaß: unbetont-betont", "Strophenform", "Gedichtart"],
+    "correctAnswer": 1,
+    "explanation": "Ein Jambus ist ein Versmaß mit dem Rhythmus unbetont-betont (x X)."
+  },
+  {
+    "question": "Wer schrieb 'Wilhelm Tell'?",
+    "answers": ["Johann Wolfgang von Goethe", "Friedrich Schiller", "Heinrich von Kleist", "Georg Büchner"],
+    "correctAnswer": 1,
+    "explanation": "Friedrich Schiller schrieb das Drama 'Wilhelm Tell' 1804."
+  }
+]

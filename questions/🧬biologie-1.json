@@ -1,0 +1,590 @@
+[
+  {
+    "question": "Wie viele Chromosomen hat eine menschliche Körperzelle?",
+    "answers": ["23", "46", "48", "92"],
+    "correctAnswer": 1,
+    "explanation": "Menschliche Körperzellen haben 46 Chromosomen (23 Paare)."
+  },
+  {
+    "question": "Was ist die Hauptfunktion der roten Blutkörperchen?",
+    "answers": ["Bekämpfung von Krankheiten", "Sauerstofftransport", "Blutgerinnung", "Nährstofftransport"],
+    "correctAnswer": 1,
+    "explanation": "Rote Blutkörperchen (Erythrozyten) transportieren Sauerstoff durch den Körper."
+  },
+  {
+    "question": "Welches Organ produziert Insulin?",
+    "answers": ["Leber", "Bauchspeicheldrüse", "Niere", "Magen"],
+    "correctAnswer": 1,
+    "explanation": "Die Bauchspeicheldrüse (Pankreas) produziert das Hormon Insulin."
+  },
+  {
+    "question": "Wie nennt man den Prozess, bei dem Pflanzen Licht in Energie umwandeln?",
+    "answers": ["Atmung", "Photosynthese", "Osmose", "Diffusion"],
+    "correctAnswer": 1,
+    "explanation": "Photosynthese ist der Prozess, bei dem Pflanzen Lichtenergie in chemische Energie umwandeln."
+  },
+  {
+    "question": "Welche Blutgruppe ist der Universalspender?",
+    "answers": ["A", "B", "AB", "0"],
+    "correctAnswer": 3,
+    "explanation": "Blutgruppe 0 negativ ist der Universalspender, da sie keine Antigene hat."
+  },
+  {
+    "question": "Wie viele Knochen hat ein erwachsener Mensch ungefähr?",
+    "answers": ["156", "186", "206", "246"],
+    "correctAnswer": 2,
+    "explanation": "Ein erwachsener Mensch hat etwa 206 Knochen."
+  },
+  {
+    "question": "Was ist DNA?",
+    "answers": ["Ein Protein", "Eine Erbsubstanz", "Ein Vitamin", "Ein Enzym"],
+    "correctAnswer": 1,
+    "explanation": "DNA (Desoxyribonukleinsäure) ist die Trägersubstanz der Erbinformation."
+  },
+  {
+    "question": "Welches ist das größte Organ des menschlichen Körpers?",
+    "answers": ["Leber", "Herz", "Haut", "Lunge"],
+    "correctAnswer": 2,
+    "explanation": "Die Haut ist mit etwa 2 Quadratmetern Fläche das größte Organ."
+  },
+  {
+    "question": "Wie nennt man Tiere, die nur Pflanzen fressen?",
+    "answers": ["Karnivoren", "Omnivoren", "Herbivoren", "Insektivoren"],
+    "correctAnswer": 2,
+    "explanation": "Herbivoren sind Pflanzenfresser."
+  },
+  {
+    "question": "Welches Gas atmen Menschen ein?",
+    "answers": ["Kohlendioxid", "Sauerstoff", "Stickstoff", "Helium"],
+    "correctAnswer": 1,
+    "explanation": "Menschen atmen Sauerstoff ein und Kohlendioxid aus."
+  },
+  {
+    "question": "Was ist die kleinste Einheit des Lebens?",
+    "answers": ["Atom", "Molekül", "Zelle", "Organ"],
+    "correctAnswer": 2,
+    "explanation": "Die Zelle ist die kleinste selbstständige Einheit des Lebens."
+  },
+  {
+    "question": "Welches Vitamin wird durch Sonnenlicht in der Haut gebildet?",
+    "answers": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+    "correctAnswer": 2,
+    "explanation": "Vitamin D wird durch UV-Strahlung in der Haut synthetisiert."
+  },
+  {
+    "question": "Wie viele Herzkammern hat das menschliche Herz?",
+    "answers": ["2", "3", "4", "5"],
+    "correctAnswer": 2,
+    "explanation": "Das menschliche Herz hat vier Kammern: zwei Vorhöfe und zwei Hauptkammern."
+  },
+  {
+    "question": "Was ist Chlorophyll?",
+    "answers": ["Ein Hormon", "Ein grüner Farbstoff", "Ein Enzym", "Ein Vitamin"],
+    "correctAnswer": 1,
+    "explanation": "Chlorophyll ist der grüne Farbstoff in Pflanzen, der für die Photosynthese wichtig ist."
+  },
+  {
+    "question": "Welches Organ filtert das Blut?",
+    "answers": ["Leber", "Niere", "Milz", "Herz"],
+    "correctAnswer": 1,
+    "explanation": "Die Nieren filtern das Blut und produzieren Urin."
+  },
+  {
+    "question": "Wie nennt man wechselwarme Tiere?",
+    "answers": ["Endotherm", "Ektotherm", "Homöotherm", "Poikilotherm"],
+    "correctAnswer": 3,
+    "explanation": "Wechselwarme Tiere werden als poikilotherm bezeichnet."
+  },
+  {
+    "question": "Was ist ein Virus?",
+    "answers": ["Eine Bakterie", "Ein Parasit ohne eigenen Stoffwechsel", "Ein Pilz", "Ein Einzeller"],
+    "correctAnswer": 1,
+    "explanation": "Viren sind infektiöse Partikel ohne eigenen Stoffwechsel, die Wirtszellen benötigen."
+  },
+  {
+    "question": "Welches ist das stärkste Muskelsystem im menschlichen Körper?",
+    "answers": ["Armmuskel", "Beinmuskel", "Kiefermuskel", "Herzmuskel"],
+    "correctAnswer": 2,
+    "explanation": "Der Kaumuskel (Musculus masseter) ist relativ zu seiner Größe der stärkste Muskel."
+  },
+  {
+    "question": "Was produzieren weiße Blutkörperchen?",
+    "answers": ["Sauerstoff", "Antikörper", "Insulin", "Hämoglobin"],
+    "correctAnswer": 1,
+    "explanation": "Weiße Blutkörperchen (Leukozyten) produzieren Antikörper zur Immunabwehr."
+  },
+  {
+    "question": "Wie lange dauert die Schwangerschaft beim Menschen durchschnittlich?",
+    "answers": ["7 Monate", "9 Monate", "11 Monate", "12 Monate"],
+    "correctAnswer": 1,
+    "explanation": "Eine menschliche Schwangerschaft dauert etwa 9 Monate oder 40 Wochen."
+  },
+  {
+    "question": "Was ist Mitose?",
+    "answers": ["Zellteilung", "Zellatmung", "Zellsterben", "Zellwachstum"],
+    "correctAnswer": 0,
+    "explanation": "Mitose ist der Prozess der Zellteilung, bei dem zwei identische Tochterzellen entstehen."
+  },
+  {
+    "question": "Welches Tier hat drei Herzen?",
+    "answers": ["Oktopus", "Wal", "Hai", "Delfin"],
+    "correctAnswer": 0,
+    "explanation": "Oktopusse haben ein Hauptherz und zwei Kiemenherzen."
+  },
+  {
+    "question": "Was ist der pH-Wert von reinem Wasser?",
+    "answers": ["5", "7", "9", "11"],
+    "correctAnswer": 1,
+    "explanation": "Reines Wasser hat einen neutralen pH-Wert von 7."
+  },
+  {
+    "question": "Welches Organ produziert Galle?",
+    "answers": ["Leber", "Gallenblase", "Bauchspeicheldrüse", "Magen"],
+    "correctAnswer": 0,
+    "explanation": "Die Leber produziert Galle, die in der Gallenblase gespeichert wird."
+  },
+  {
+    "question": "Was sind Stammzellen?",
+    "answers": ["Alte Zellen", "Spezialisierte Zellen", "Undifferenzierte Zellen", "Tote Zellen"],
+    "correctAnswer": 2,
+    "explanation": "Stammzellen sind undifferenzierte Zellen, die sich zu verschiedenen Zelltypen entwickeln können."
+  },
+  {
+    "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+    "answers": ["28", "30", "32", "34"],
+    "correctAnswer": 2,
+    "explanation": "Ein erwachsener Mensch hat normalerweise 32 Zähne, einschließlich der Weisheitszähne."
+  },
+  {
+    "question": "Was ist Melanin?",
+    "answers": ["Ein Hormon", "Ein Pigment", "Ein Vitamin", "Ein Enzym"],
+    "correctAnswer": 1,
+    "explanation": "Melanin ist ein Pigment, das für die Hautfarbe verantwortlich ist."
+  },
+  {
+    "question": "Welches Tier kann sein Geschlecht ändern?",
+    "answers": ["Clownfisch", "Goldfisch", "Hai", "Delfin"],
+    "correctAnswer": 0,
+    "explanation": "Clownfische können ihr Geschlecht ändern, wenn es nötig ist."
+  },
+  {
+    "question": "Was ist Glukose?",
+    "answers": ["Ein Protein", "Ein Fett", "Ein Zucker", "Ein Vitamin"],
+    "correctAnswer": 2,
+    "explanation": "Glukose ist ein einfacher Zucker und wichtige Energiequelle für Zellen."
+  },
+  {
+    "question": "Wie nennt man das Studium von Pilzen?",
+    "answers": ["Botanik", "Mykologie", "Zoologie", "Mikrobiologie"],
+    "correctAnswer": 1,
+    "explanation": "Mykologie ist die Wissenschaft, die sich mit Pilzen beschäftigt."
+  },
+  {
+    "question": "Welches Hormon reguliert den Schlaf-Wach-Rhythmus?",
+    "answers": ["Adrenalin", "Insulin", "Melatonin", "Testosteron"],
+    "correctAnswer": 2,
+    "explanation": "Melatonin ist das Hormon, das den Tag-Nacht-Rhythmus steuert."
+  },
+  {
+    "question": "Was ist der größte Teil des menschlichen Gehirns?",
+    "answers": ["Kleinhirn", "Großhirn", "Stammhirn", "Zwischenhirn"],
+    "correctAnswer": 1,
+    "explanation": "Das Großhirn (Cerebrum) ist der größte Teil des menschlichen Gehirns."
+  },
+  {
+    "question": "Welches Vitamin ist wichtig für die Blutgerinnung?",
+    "answers": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+    "correctAnswer": 3,
+    "explanation": "Vitamin K spielt eine wichtige Rolle bei der Blutgerinnung."
+  },
+  {
+    "question": "Was ist ein Antibiotikum?",
+    "answers": ["Ein Vitaminpräparat", "Ein Mittel gegen Bakterien", "Ein Schmerzmittel", "Ein Impfstoff"],
+    "correctAnswer": 1,
+    "explanation": "Antibiotika sind Medikamente, die Bakterien bekämpfen oder deren Wachstum hemmen."
+  },
+  {
+    "question": "Wie viele Liter Blut hat ein erwachsener Mensch durchschnittlich?",
+    "answers": ["3-4 Liter", "5-6 Liter", "7-8 Liter", "9-10 Liter"],
+    "correctAnswer": 1,
+    "explanation": "Ein erwachsener Mensch hat etwa 5-6 Liter Blut im Körper."
+  },
+  {
+    "question": "Was ist Osmose?",
+    "answers": ["Zellteilung", "Diffusion durch eine Membran", "Zellatmung", "Photosynthese"],
+    "correctAnswer": 1,
+    "explanation": "Osmose ist die Diffusion von Wasser durch eine semipermeable Membran."
+  },
+  {
+    "question": "Welches ist das härteste Material im menschlichen Körper?",
+    "answers": ["Knochen", "Zahnschmelz", "Knorpel", "Nagel"],
+    "correctAnswer": 1,
+    "explanation": "Zahnschmelz ist das härteste Material im menschlichen Körper."
+  },
+  {
+    "question": "Was sind Enzyme?",
+    "answers": ["Hormone", "Vitamine", "Biokatalysatoren", "Mineralstoffe"],
+    "correctAnswer": 2,
+    "explanation": "Enzyme sind biologische Katalysatoren, die chemische Reaktionen beschleunigen."
+  },
+  {
+    "question": "Welches Tier hat das größte Gehirn?",
+    "answers": ["Elefant", "Pottwal", "Mensch", "Delfin"],
+    "correctAnswer": 1,
+    "explanation": "Der Pottwal hat das größte Gehirn aller Tiere (etwa 8 kg)."
+  },
+  {
+    "question": "Was ist Kollagen?",
+    "answers": ["Ein Kohlenhydrat", "Ein Protein", "Ein Fett", "Ein Vitamin"],
+    "correctAnswer": 1,
+    "explanation": "Kollagen ist ein Strukturprotein, das in Haut, Knochen und Bindegewebe vorkommt."
+  },
+  {
+    "question": "Wie viele Paar Rippen hat der Mensch?",
+    "answers": ["10", "12", "14", "16"],
+    "correctAnswer": 1,
+    "explanation": "Der Mensch hat 12 Paar Rippen (insgesamt 24 Rippen)."
+  },
+  {
+    "question": "Was ist die Funktion der Milz?",
+    "answers": ["Verdauung", "Blutfilterung", "Hormonproduktion", "Sauerstoffaufnahme"],
+    "correctAnswer": 1,
+    "explanation": "Die Milz filtert Blut und ist Teil des Immunsystems."
+  },
+  {
+    "question": "Welches Säugetier legt Eier?",
+    "answers": ["Känguru", "Koala", "Schnabeltier", "Wombat"],
+    "correctAnswer": 2,
+    "explanation": "Das Schnabeltier ist eines der wenigen eierlegenden Säugetiere."
+  },
+  {
+    "question": "Was ist Adrenalin?",
+    "answers": ["Ein Vitamin", "Ein Stresshormon", "Ein Enzym", "Ein Protein"],
+    "correctAnswer": 1,
+    "explanation": "Adrenalin ist ein Stresshormon, das in Gefahrensituationen ausgeschüttet wird."
+  },
+  {
+    "question": "Wie lange braucht Nahrung durchschnittlich durch den Verdauungstrakt?",
+    "answers": ["6-8 Stunden", "12-24 Stunden", "24-72 Stunden", "3-5 Tage"],
+    "correctAnswer": 2,
+    "explanation": "Die Verdauung dauert normalerweise 24-72 Stunden vom Essen bis zur Ausscheidung."
+  },
+  {
+    "question": "Was sind Neuronen?",
+    "answers": ["Muskelzellen", "Nervenzellen", "Blutzellen", "Knochenzellen"],
+    "correctAnswer": 1,
+    "explanation": "Neuronen sind Nervenzellen, die elektrische Signale übertragen."
+  },
+  {
+    "question": "Welches Organ kann sich am schnellsten regenerieren?",
+    "answers": ["Herz", "Leber", "Niere", "Gehirn"],
+    "correctAnswer": 1,
+    "explanation": "Die Leber hat eine außergewöhnliche Regenerationsfähigkeit."
+  },
+  {
+    "question": "Was ist Hämoglobin?",
+    "answers": ["Ein Hormon", "Ein Sauerstofftransportprotein", "Ein Vitamin", "Ein Enzym"],
+    "correctAnswer": 1,
+    "explanation": "Hämoglobin ist das eisenhaltige Protein in roten Blutkörperchen, das Sauerstoff bindet."
+  },
+  {
+    "question": "Wie viele Sinne hat der Mensch grundsätzlich?",
+    "answers": ["5", "7", "9", "12"],
+    "correctAnswer": 0,
+    "explanation": "Die fünf Grundsinne sind Sehen, Hören, Riechen, Schmecken und Tasten."
+  },
+  {
+    "question": "Was ist ein Gen?",
+    "answers": ["Eine Zelle", "Ein Abschnitt der DNA", "Ein Protein", "Ein Chromosom"],
+    "correctAnswer": 1,
+    "explanation": "Ein Gen ist ein Abschnitt der DNA, der genetische Information trägt."
+  },
+  {
+    "question": "Welches Tier hat den langsamsten Stoffwechsel?",
+    "answers": ["Faultier", "Schildkröte", "Koala", "Schnecke"],
+    "correctAnswer": 0,
+    "explanation": "Faultiere haben einen extrem langsamen Stoffwechsel."
+  },
+  {
+    "question": "Was ist die Retina?",
+    "answers": ["Linse des Auges", "Netzhaut des Auges", "Hornhaut", "Glaskörper"],
+    "correctAnswer": 1,
+    "explanation": "Die Retina ist die Netzhaut im Auge, die Licht in Nervenimpulse umwandelt."
+  },
+  {
+    "question": "Welches Vitamin wird als Ascorbinsäure bezeichnet?",
+    "answers": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctAnswer": 2,
+    "explanation": "Vitamin C wird auch als Ascorbinsäure bezeichnet."
+  },
+  {
+    "question": "Was sind Thrombozyten?",
+    "answers": ["Rote Blutkörperchen", "Weiße Blutkörperchen", "Blutplättchen", "Plasmazellen"],
+    "correctAnswer": 2,
+    "explanation": "Thrombozyten sind Blutplättchen, die für die Blutgerinnung wichtig sind."
+  },
+  {
+    "question": "Wie heißt der längste Nerv im menschlichen Körper?",
+    "answers": ["Vagusnerv", "Ischiasnerv", "Sehnerv", "Trigeminus"],
+    "correctAnswer": 1,
+    "explanation": "Der Ischiasnerv ist der längste und dickste Nerv im menschlichen Körper."
+  },
+  {
+    "question": "Was ist Keratin?",
+    "answers": ["Ein Kohlenhydrat", "Ein Strukturprotein", "Ein Hormon", "Ein Enzym"],
+    "correctAnswer": 1,
+    "explanation": "Keratin ist ein Strukturprotein, aus dem Haare, Nägel und Haut bestehen."
+  },
+  {
+    "question": "Welches Tier hat den höchsten Blutdruck?",
+    "answers": ["Elefant", "Giraffe", "Blauwal", "Nilpferd"],
+    "correctAnswer": 1,
+    "explanation": "Giraffen haben den höchsten Blutdruck aller Tiere wegen ihres langen Halses."
+  },
+  {
+    "question": "Was ist Meiose?",
+    "answers": ["Normale Zellteilung", "Reifeteilung zur Bildung von Keimzellen", "Zellwachstum", "Zelltod"],
+    "correctAnswer": 1,
+    "explanation": "Meiose ist die Reifeteilung, bei der Geschlechtszellen mit halbem Chromosomensatz entstehen."
+  },
+  {
+    "question": "Welches Organ produziert Erythrozyten?",
+    "answers": ["Leber", "Milz", "Knochenmark", "Lymphknoten"],
+    "correctAnswer": 2,
+    "explanation": "Rote Blutkörperchen werden im Knochenmark produziert."
+  },
+  {
+    "question": "Was ist Dopamin?",
+    "answers": ["Ein Hormon", "Ein Neurotransmitter", "Ein Enzym", "Ein Vitamin"],
+    "correctAnswer": 1,
+    "explanation": "Dopamin ist ein Neurotransmitter, der im Gehirn Signale überträgt."
+  },
+  {
+    "question": "Wie viele Muskeln hat der menschliche Körper ungefähr?",
+    "answers": ["206", "430", "650", "850"],
+    "correctAnswer": 2,
+    "explanation": "Der menschliche Körper hat etwa 650 Muskeln."
+  },
+  {
+    "question": "Was ist die Funktion der Nebenniere?",
+    "answers": ["Blutfilterung", "Hormonproduktion", "Verdauung", "Atmung"],
+    "correctAnswer": 1,
+    "explanation": "Die Nebennieren produzieren wichtige Hormone wie Adrenalin und Cortisol."
+  },
+  {
+    "question": "Welches Tier kann bis zu drei Jahre ohne Nahrung überleben?",
+    "answers": ["Bär", "Krokodil", "Schlange", "Schildkröte"],
+    "correctAnswer": 1,
+    "explanation": "Große Krokodile können durch ihren langsamen Stoffwechsel bis zu drei Jahre ohne Nahrung auskommen."
+  },
+  {
+    "question": "Was ist Glykogen?",
+    "answers": ["Ein gespeicherter Zucker", "Ein Protein", "Ein Fett", "Ein Vitamin"],
+    "correctAnswer": 0,
+    "explanation": "Glykogen ist die Speicherform von Glukose in Leber und Muskeln."
+  },
+  {
+    "question": "Wie nennt man die Wissenschaft von den Bakterien?",
+    "answers": ["Virologie", "Bakteriologie", "Mykologie", "Parasitologie"],
+    "correctAnswer": 1,
+    "explanation": "Bakteriologie ist die Wissenschaft, die sich mit Bakterien beschäftigt."
+  },
+  {
+    "question": "Was ist die Hornhaut des Auges?",
+    "answers": ["Linse", "Durchsichtige Schutzschicht", "Netzhaut", "Iris"],
+    "correctAnswer": 1,
+    "explanation": "Die Hornhaut (Cornea) ist die durchsichtige Schutzschicht an der Vorderseite des Auges."
+  },
+  {
+    "question": "Welches Vitamin ist fettlöslich?",
+    "answers": ["Vitamin C", "Vitamin B", "Vitamin A", "Alle Vitamine"],
+    "correctAnswer": 2,
+    "explanation": "Vitamin A ist ein fettlösliches Vitamin (wie auch D, E und K)."
+  },
+  {
+    "question": "Was sind Ribosomen?",
+    "answers": ["Zellorganellen für Proteinsynthese", "Energiekraftwerke", "Verdauungsorganellen", "Speicherorganellen"],
+    "correctAnswer": 0,
+    "explanation": "Ribosomen sind Zellorganellen, an denen Proteine synthetisiert werden."
+  },
+  {
+    "question": "Welches ist das kleinste Säugetier?",
+    "answers": ["Maus", "Etruskerspitzmaus", "Fledermaus", "Hamster"],
+    "correctAnswer": 1,
+    "explanation": "Die Etruskerspitzmaus ist mit etwa 2 Gramm das kleinste Säugetier."
+  },
+  {
+    "question": "Was ist Cortisol?",
+    "answers": ["Ein Schlafhormon", "Ein Stresshormon", "Ein Wachstumshormon", "Ein Geschlechtshormon"],
+    "correctAnswer": 1,
+    "explanation": "Cortisol ist ein Stresshormon, das von den Nebennieren produziert wird."
+  },
+  {
+    "question": "Wie viele Atemzüge macht ein Mensch durchschnittlich pro Minute?",
+    "answers": ["8-10", "12-20", "25-30", "35-40"],
+    "correctAnswer": 1,
+    "explanation": "Ein erwachsener Mensch atmet in Ruhe etwa 12-20 Mal pro Minute."
+  },
+  {
+    "question": "Was ist ein Antigen?",
+    "answers": ["Ein Antikörper", "Eine fremde Substanz, die Immunreaktion auslöst", "Ein Hormon", "Ein Enzym"],
+    "correctAnswer": 1,
+    "explanation": "Ein Antigen ist eine Substanz, die vom Immunsystem als fremd erkannt wird und eine Immunreaktion auslöst."
+  },
+  {
+    "question": "Welches Organ speichert Vitamin B12?",
+    "answers": ["Leber", "Niere", "Milz", "Herz"],
+    "correctAnswer": 0,
+    "explanation": "Die Leber speichert Vitamin B12 und andere wichtige Nährstoffe."
+  },
+  {
+    "question": "Was ist die Funktion der Schilddrüse?",
+    "answers": ["Blutfilterung", "Hormonproduktion für Stoffwechsel", "Verdauung", "Immunabwehr"],
+    "correctAnswer": 1,
+    "explanation": "Die Schilddrüse produziert Hormone, die den Stoffwechsel regulieren."
+  },
+  {
+    "question": "Welches Tier hat das beste Gedächtnis?",
+    "answers": ["Hund", "Elefant", "Delfin", "Schimpanse"],
+    "correctAnswer": 1,
+    "explanation": "Elefanten haben ein außergewöhnlich gutes Langzeitgedächtnis."
+  },
+  {
+    "question": "Was ist Testosteron?",
+    "answers": ["Ein Schlafhormon", "Ein Stresshormon", "Ein männliches Geschlechtshormon", "Ein Wachstumshormon"],
+    "correctAnswer": 2,
+    "explanation": "Testosteron ist das wichtigste männliche Geschlechtshormon."
+  },
+  {
+    "question": "Wie viele Geschmacksrichtungen kann die Zunge unterscheiden?",
+    "answers": ["4", "5", "6", "7"],
+    "correctAnswer": 1,
+    "explanation": "Die Zunge kann fünf Grundgeschmacksrichtungen unterscheiden: süß, sauer, salzig, bitter und umami."
+  },
+  {
+    "question": "Was sind Mitochondrien?",
+    "answers": ["Zellkern", "Kraftwerke der Zelle", "Zellmembran", "Chromosomen"],
+    "correctAnswer": 1,
+    "explanation": "Mitochondrien sind die 'Kraftwerke der Zelle', in denen Energie produziert wird."
+  },
+  {
+    "question": "Welches Tier hat blaues Blut?",
+    "answers": ["Hai", "Tintenfisch", "Wal", "Delfin"],
+    "correctAnswer": 1,
+    "explanation": "Tintenfische und andere Kopffüßer haben kupferhaltiges blaues Blut."
+  },
+  {
+    "question": "Was ist die Plazenta?",
+    "answers": ["Ein Organ im Gehirn", "Mutterkuchen", "Ein Verdauungsorgan", "Ein Muskel"],
+    "correctAnswer": 1,
+    "explanation": "Die Plazenta ist der Mutterkuchen, der den Fötus während der Schwangerschaft versorgt."
+  },
+  {
+    "question": "Wie viele Herzschläge hat ein Mensch durchschnittlich pro Minute in Ruhe?",
+    "answers": ["40-50", "60-80", "90-100", "110-120"],
+    "correctAnswer": 1,
+    "explanation": "Ein gesunder Erwachsener hat in Ruhe etwa 60-80 Herzschläge pro Minute."
+  },
+  {
+    "question": "Was ist Östrogen?",
+    "answers": ["Ein männliches Hormon", "Ein weibliches Geschlechtshormon", "Ein Stresshormon", "Ein Wachstumshormon"],
+    "correctAnswer": 1,
+    "explanation": "Östrogen ist das wichtigste weibliche Geschlechtshormon."
+  },
+  {
+    "question": "Welches ist das einzige Säugetier, das fliegen kann?",
+    "answers": ["Gleithörnchen", "Flughund", "Fledermaus", "Fliegender Lemur"],
+    "correctAnswer": 2,
+    "explanation": "Fledermäuse sind die einzigen Säugetiere, die aktiv fliegen können."
+  },
+  {
+    "question": "Was ist der Hypothalamus?",
+    "answers": ["Ein Muskel", "Ein Gehirnteil", "Ein Knochen", "Ein Organ"],
+    "correctAnswer": 1,
+    "explanation": "Der Hypothalamus ist ein wichtiger Teil des Zwischenhirns, der viele Körperfunktionen steuert."
+  },
+  {
+    "question": "Wie lange dauert ein vollständiger Zellzyklus beim Menschen durchschnittlich?",
+    "answers": ["12 Stunden", "24 Stunden", "48 Stunden", "72 Stunden"],
+    "correctAnswer": 1,
+    "explanation": "Ein typischer menschlicher Zellzyklus dauert etwa 24 Stunden."
+  },
+  {
+    "question": "Was ist Myoglobin?",
+    "answers": ["Ein Knochenprotein", "Ein Muskelsauerstoffspeicher", "Ein Blutprotein", "Ein Enzym"],
+    "correctAnswer": 1,
+    "explanation": "Myoglobin ist ein Protein in Muskelzellen, das Sauerstoff speichert."
+  },
+  {
+    "question": "Welches Tier hat die längste Lebensdauer?",
+    "answers": ["Elefant", "Grönlandwal", "Riesenschildkröte", "Papagei"],
+    "correctAnswer": 1,
+    "explanation": "Grönlandwale können über 200 Jahre alt werden."
+  },
+  {
+    "question": "Was ist Serotonin?",
+    "answers": ["Ein Hormon", "Ein Glücks-Neurotransmitter", "Ein Enzym", "Ein Vitamin"],
+    "correctAnswer": 1,
+    "explanation": "Serotonin ist ein Neurotransmitter, der oft als 'Glückshormon' bezeichnet wird."
+  },
+  {
+    "question": "Wie viele Wirbel hat die menschliche Wirbelsäule?",
+    "answers": ["24", "26", "33", "36"],
+    "correctAnswer": 2,
+    "explanation": "Die menschliche Wirbelsäule besteht aus 33 Wirbeln (bei Erwachsenen teilweise verwachsen)."
+  },
+  {
+    "question": "Was ist Pepsin?",
+    "answers": ["Ein Hormon", "Ein Verdauungsenzym", "Ein Vitamin", "Ein Mineral"],
+    "correctAnswer": 1,
+    "explanation": "Pepsin ist ein Verdauungsenzym im Magen, das Proteine spaltet."
+  },
+  {
+    "question": "Welches Tier kann sein Herz willentlich stoppen?",
+    "answers": ["Hund", "Katze", "Igel", "Hamster"],
+    "correctAnswer": 2,
+    "explanation": "Igel können während des Winterschlafs ihren Herzschlag stark reduzieren."
+  },
+  {
+    "question": "Was ist die Cochlea?",
+    "answers": ["Teil des Auges", "Schnecke im Innenohr", "Teil der Nase", "Geschmacksknospe"],
+    "correctAnswer": 1,
+    "explanation": "Die Cochlea ist die Gehörschnecke im Innenohr."
+  },
+  {
+    "question": "Wie nennt man den programmierten Zelltod?",
+    "answers": ["Nekrose", "Apoptose", "Mitose", "Meiose"],
+    "correctAnswer": 1,
+    "explanation": "Apoptose ist der programmierte, kontrollierte Zelltod."
+  },
+  {
+    "question": "Was ist Prolaktin?",
+    "answers": ["Ein Wachstumshormon", "Ein Milchbildungshormon", "Ein Stresshormon", "Ein Schlafhormon"],
+    "correctAnswer": 1,
+    "explanation": "Prolaktin ist ein Hormon, das die Milchbildung bei stillenden Müttern fördert."
+  },
+  {
+    "question": "Welches ist das schnellste Landtier?",
+    "answers": ["Löwe", "Gepard", "Antilope", "Windhund"],
+    "correctAnswer": 1,
+    "explanation": "Der Gepard ist mit bis zu 120 km/h das schnellste Landtier."
+  },
+  {
+    "question": "Was sind Pheromone?",
+    "answers": ["Hormone", "Duftstoffe zur Kommunikation", "Enzyme", "Vitamine"],
+    "correctAnswer": 1,
+    "explanation": "Pheromone sind chemische Botenstoffe zur Kommunikation zwischen Individuen."
+  },
+  {
+    "question": "Wie viel Prozent des Körpergewichts macht das Gehirn aus?",
+    "answers": ["2%", "5%", "10%", "15%"],
+    "correctAnswer": 0,
+    "explanation": "Das Gehirn macht etwa 2% des Körpergewichts aus, verbraucht aber 20% der Energie."
+  },
+  {
+    "question": "Was ist Fibrin?",
+    "answers": ["Ein Muskelprotein", "Ein Gerinnungsprotein", "Ein Knochenprotein", "Ein Hautprotein"],
+    "correctAnswer": 1,
+    "explanation": "Fibrin ist ein Protein, das bei der Blutgerinnung ein Netz bildet."
+  }
+]

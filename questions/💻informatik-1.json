@@ -1,0 +1,578 @@
+[
+  {
+    "question": "Was bedeutet die Abkürzung HTML?",
+    "answers": ["High Text Markup Language", "Hypertext Markup Language", "Home Tool Markup Language", "Hyperlink and Text Markup Language"],
+    "correctAnswer": 1,
+    "explanation": "HTML steht für Hypertext Markup Language und ist die Standardsprache für Webseiten."
+  },
+  {
+    "question": "Wer gilt als Erfinder des World Wide Web?",
+    "answers": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Mark Zuckerberg"],
+    "correctAnswer": 2,
+    "explanation": "Tim Berners-Lee erfand 1989 das World Wide Web am CERN."
+  },
+  {
+    "question": "Was ist ein Algorithmus?",
+    "answers": ["Ein Computervirus", "Eine Programmiersprache", "Eine Schritt-für-Schritt-Anleitung zur Problemlösung", "Ein Betriebssystem"],
+    "correctAnswer": 2,
+    "explanation": "Ein Algorithmus ist eine präzise Handlungsvorschrift zur Lösung eines Problems."
+  },
+  {
+    "question": "Welche Programmiersprache wird hauptsächlich für Android-Apps verwendet?",
+    "answers": ["Swift", "Python", "Java/Kotlin", "Ruby"],
+    "correctAnswer": 2,
+    "explanation": "Android-Apps werden traditionell in Java oder Kotlin entwickelt."
+  },
+  {
+    "question": "Was bedeutet CPU?",
+    "answers": ["Computer Processing Unit", "Central Processing Unit", "Central Program Unit", "Computer Program Unit"],
+    "correctAnswer": 1,
+    "explanation": "CPU steht für Central Processing Unit, der Hauptprozessor eines Computers."
+  },
+  {
+    "question": "Wie viele Bits hat ein Byte?",
+    "answers": ["4", "8", "16", "32"],
+    "correctAnswer": 1,
+    "explanation": "Ein Byte besteht aus 8 Bits."
+  },
+  {
+    "question": "Was ist RAM?",
+    "answers": ["Festplatte", "Arbeitsspeicher", "Grafikkarte", "Prozessor"],
+    "correctAnswer": 1,
+    "explanation": "RAM (Random Access Memory) ist der Arbeitsspeicher des Computers."
+  },
+  {
+    "question": "Welches Unternehmen entwickelte die Programmiersprache Python?",
+    "answers": ["Microsoft", "Google", "Guido van Rossum (Einzelperson)", "Apple"],
+    "correctAnswer": 2,
+    "explanation": "Python wurde von Guido van Rossum entwickelt, nicht von einem Unternehmen."
+  },
+  {
+    "question": "Was ist ein Compiler?",
+    "answers": ["Ein Texteditor", "Ein Programm, das Code in Maschinensprache übersetzt", "Ein Betriebssystem", "Eine Datenbank"],
+    "correctAnswer": 1,
+    "explanation": "Ein Compiler übersetzt Programmcode in ausführbare Maschinensprache."
+  },
+  {
+    "question": "Was bedeutet SQL?",
+    "answers": ["System Query Language", "Structured Query Language", "Simple Query Language", "Standard Query Language"],
+    "correctAnswer": 1,
+    "explanation": "SQL steht für Structured Query Language und dient zur Datenbankabfrage."
+  },
+  {
+    "question": "Welches Zahlensystem verwendet nur 0 und 1?",
+    "answers": ["Dezimalsystem", "Hexadezimalsystem", "Oktalsystem", "Binärsystem"],
+    "correctAnswer": 3,
+    "explanation": "Das Binärsystem arbeitet nur mit den Ziffern 0 und 1."
+  },
+  {
+    "question": "Was ist ein Cookie im Internet?",
+    "answers": ["Ein Virus", "Eine kleine Datendatei auf dem Computer", "Eine E-Mail", "Ein Programm"],
+    "correctAnswer": 1,
+    "explanation": "Cookies sind kleine Datendateien, die Websites auf dem Computer des Nutzers speichern."
+  },
+  {
+    "question": "Welche Programmiersprache wird für iOS-Apps verwendet?",
+    "answers": ["Java", "Swift", "Python", "C++"],
+    "correctAnswer": 1,
+    "explanation": "iOS-Apps werden hauptsächlich in Swift (oder Objective-C) entwickelt."
+  },
+  {
+    "question": "Was bedeutet die Abkürzung URL?",
+    "answers": ["Uniform Resource Locator", "Universal Resource Locator", "Unified Resource Link", "Universal Resource Link"],
+    "correctAnswer": 0,
+    "explanation": "URL steht für Uniform Resource Locator, die Adresse einer Webseite."
+  },
+  {
+    "question": "Was ist ein Virus in der Informatik?",
+    "answers": ["Eine nützliche Software", "Ein schädliches Programm", "Ein Betriebssystem", "Eine Programmiersprache"],
+    "correctAnswer": 1,
+    "explanation": "Ein Computervirus ist ein schädliches Programm, das sich selbst repliziert."
+  },
+  {
+    "question": "Welches Betriebssystem entwickelte Microsoft?",
+    "answers": ["macOS", "Linux", "Windows", "Unix"],
+    "correctAnswer": 2,
+    "explanation": "Microsoft entwickelte das Windows-Betriebssystem."
+  },
+  {
+    "question": "Was ist JavaScript?",
+    "answers": ["Eine Kaffeemarke", "Eine Programmiersprache für Webseiten", "Ein Betriebssystem", "Eine Datenbank"],
+    "correctAnswer": 1,
+    "explanation": "JavaScript ist eine Programmiersprache, die hauptsächlich für interaktive Webseiten verwendet wird."
+  },
+  {
+    "question": "Was bedeutet AI/KI?",
+    "answers": ["Artificial Intelligence/Künstliche Intelligenz", "Automatic Integration", "Advanced Interface", "Application Interface"],
+    "correctAnswer": 0,
+    "explanation": "AI/KI steht für Artificial Intelligence bzw. Künstliche Intelligenz."
+  },
+  {
+    "question": "Was ist ein Pixel?",
+    "answers": ["Ein Programm", "Das kleinste Element eines digitalen Bildes", "Ein Virus", "Eine Programmiersprache"],
+    "correctAnswer": 1,
+    "explanation": "Ein Pixel ist das kleinste Bildelement in einem digitalen Bild."
+  },
+  {
+    "question": "Welches Unternehmen gründete Steve Jobs?",
+    "answers": ["Microsoft", "Google", "Apple", "Facebook"],
+    "correctAnswer": 2,
+    "explanation": "Steve Jobs war Mitbegründer von Apple."
+  },
+  {
+    "question": "Was ist Cloud Computing?",
+    "answers": ["Wettervorhersage", "Speicherung und Verarbeitung von Daten über das Internet", "Ein Computerspiel", "Ein Betriebssystem"],
+    "correctAnswer": 1,
+    "explanation": "Cloud Computing bezeichnet die Bereitstellung von IT-Ressourcen über das Internet."
+  },
+  {
+    "question": "Was bedeutet HTTPS?",
+    "answers": ["Hypertext Transfer Protocol Secure", "High Transfer Protocol System", "Hypertext Transport Protocol Safe", "High Text Protocol Secure"],
+    "correctAnswer": 0,
+    "explanation": "HTTPS ist die verschlüsselte Version des HTTP-Protokolls."
+  },
+  {
+    "question": "Was ist ein Router?",
+    "answers": ["Ein Speichergerät", "Ein Gerät zur Netzwerkverbindung", "Ein Drucker", "Eine Festplatte"],
+    "correctAnswer": 1,
+    "explanation": "Ein Router verbindet verschiedene Netzwerke miteinander und leitet Datenpakete weiter."
+  },
+  {
+    "question": "Welche Programmiersprache wird oft für maschinelles Lernen verwendet?",
+    "answers": ["HTML", "CSS", "Python", "SQL"],
+    "correctAnswer": 2,
+    "explanation": "Python ist aufgrund seiner Bibliotheken sehr beliebt für maschinelles Lernen."
+  },
+  {
+    "question": "Was ist ein Bug in der Programmierung?",
+    "answers": ["Ein Feature", "Ein Fehler im Code", "Ein Virus", "Ein Update"],
+    "correctAnswer": 1,
+    "explanation": "Ein Bug ist ein Fehler oder eine Fehlfunktion in einem Programm."
+  },
+  {
+    "question": "Was bedeutet Open Source?",
+    "answers": ["Kostenpflichtige Software", "Software mit offenem Quellcode", "Geschlossene Software", "Virenfreie Software"],
+    "correctAnswer": 1,
+    "explanation": "Open Source bedeutet, dass der Quellcode frei zugänglich und veränderbar ist."
+  },
+  {
+    "question": "Was ist Linux?",
+    "answers": ["Eine Programmiersprache", "Ein Open-Source-Betriebssystem", "Eine Datenbank", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Linux ist ein freies Unix-artiges Betriebssystem."
+  },
+  {
+    "question": "Wie viele Megabyte sind ein Gigabyte?",
+    "answers": ["100", "512", "1000", "1024"],
+    "correctAnswer": 3,
+    "explanation": "Ein Gigabyte entspricht 1024 Megabyte (in der binären Rechnung)."
+  },
+  {
+    "question": "Was ist ein Firewall?",
+    "answers": ["Ein Spiel", "Ein Sicherheitssystem gegen unbefugten Netzwerkzugriff", "Ein Browser", "Eine Festplatte"],
+    "correctAnswer": 1,
+    "explanation": "Eine Firewall schützt Netzwerke vor unbefugten Zugriffen."
+  },
+  {
+    "question": "Was bedeutet CSS?",
+    "answers": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style System", "Central Style Sheets"],
+    "correctAnswer": 1,
+    "explanation": "CSS steht für Cascading Style Sheets und dient der Gestaltung von Webseiten."
+  },
+  {
+    "question": "Was ist ein Server?",
+    "answers": ["Ein Eingabegerät", "Ein Computer, der Dienste bereitstellt", "Ein Monitor", "Eine Tastatur"],
+    "correctAnswer": 1,
+    "explanation": "Ein Server ist ein Computer, der Dienste und Ressourcen für andere Computer bereitstellt."
+  },
+  {
+    "question": "Welches Protokoll wird für E-Mails verwendet?",
+    "answers": ["HTTP", "FTP", "SMTP", "DNS"],
+    "correctAnswer": 2,
+    "explanation": "SMTP (Simple Mail Transfer Protocol) wird zum Versenden von E-Mails verwendet."
+  },
+  {
+    "question": "Was ist ein Cache?",
+    "answers": ["Ein Virus", "Ein Zwischenspeicher", "Eine Festplatte", "Ein Monitor"],
+    "correctAnswer": 1,
+    "explanation": "Ein Cache ist ein Zwischenspeicher für schnellen Datenzugriff."
+  },
+  {
+    "question": "Was bedeutet VPN?",
+    "answers": ["Virtual Private Network", "Very Private Network", "Visual Private Network", "Virtual Public Network"],
+    "correctAnswer": 0,
+    "explanation": "VPN steht für Virtual Private Network, eine verschlüsselte Netzwerkverbindung."
+  },
+  {
+    "question": "Was ist ein Backup?",
+    "answers": ["Ein Virus", "Eine Sicherheitskopie von Daten", "Ein Programm", "Eine Festplatte"],
+    "correctAnswer": 1,
+    "explanation": "Ein Backup ist eine Sicherheitskopie wichtiger Daten."
+  },
+  {
+    "question": "Welche Programmiersprache wurde für statistische Analysen entwickelt?",
+    "answers": ["Java", "Python", "R", "C++"],
+    "correctAnswer": 2,
+    "explanation": "R wurde speziell für statistische Berechnungen und Datenanalyse entwickelt."
+  },
+  {
+    "question": "Was ist Phishing?",
+    "answers": ["Ein Spiel", "Ein Betrugsversuch zum Stehlen von Daten", "Ein Programm", "Ein Betriebssystem"],
+    "correctAnswer": 1,
+    "explanation": "Phishing ist der Versuch, durch gefälschte Nachrichten an persönliche Daten zu gelangen."
+  },
+  {
+    "question": "Was ist ein API?",
+    "answers": ["Ein Virus", "Eine Programmierschnittstelle", "Ein Betriebssystem", "Eine Festplatte"],
+    "correctAnswer": 1,
+    "explanation": "API (Application Programming Interface) ist eine Schnittstelle zur Anwendungsprogrammierung."
+  },
+  {
+    "question": "Was bedeutet GUI?",
+    "answers": ["General User Interface", "Graphical User Interface", "Global User Interface", "Generic User Interface"],
+    "correctAnswer": 1,
+    "explanation": "GUI steht für Graphical User Interface, die grafische Benutzeroberfläche."
+  },
+  {
+    "question": "Was ist Malware?",
+    "answers": ["Nützliche Software", "Schadsoftware", "Ein Betriebssystem", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Malware ist der Oberbegriff für schädliche Software wie Viren, Trojaner etc."
+  },
+  {
+    "question": "Welches Unternehmen entwickelte Java?",
+    "answers": ["Microsoft", "Sun Microsystems", "Apple", "Google"],
+    "correctAnswer": 1,
+    "explanation": "Java wurde von Sun Microsystems (später von Oracle übernommen) entwickelt."
+  },
+  {
+    "question": "Was ist Blockchain?",
+    "answers": ["Ein Spiel", "Eine dezentrale Datenbanktechnologie", "Ein Virus", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Blockchain ist eine dezentrale Technologie zur sicheren Datenspeicherung."
+  },
+  {
+    "question": "Was bedeutet IoT?",
+    "answers": ["Internet of Things", "Interface of Technology", "Internet of Technology", "Interface of Things"],
+    "correctAnswer": 0,
+    "explanation": "IoT steht für Internet of Things (Internet der Dinge)."
+  },
+  {
+    "question": "Was ist ein Kernel?",
+    "answers": ["Eine Anwendung", "Der Kern eines Betriebssystems", "Ein Virus", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Der Kernel ist der zentrale Bestandteil eines Betriebssystems."
+  },
+  {
+    "question": "Was ist ein Proxy-Server?",
+    "answers": ["Ein Spielserver", "Ein Vermittlungsserver zwischen Client und Zielserver", "Eine Festplatte", "Ein Monitor"],
+    "correctAnswer": 1,
+    "explanation": "Ein Proxy-Server leitet Anfragen zwischen Client und Server weiter."
+  },
+  {
+    "question": "Was bedeutet DDoS?",
+    "answers": ["Direct Denial of Service", "Distributed Denial of Service", "Direct Distribution of Service", "Data Denial of Service"],
+    "correctAnswer": 1,
+    "explanation": "DDoS (Distributed Denial of Service) ist ein verteilter Angriff zur Überlastung von Servern."
+  },
+  {
+    "question": "Was ist Git?",
+    "answers": ["Ein Betriebssystem", "Ein Versionsverwaltungssystem", "Eine Programmiersprache", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Git ist ein verteiltes Versionsverwaltungssystem für Softwareprojekte."
+  },
+  {
+    "question": "Was ist eine IP-Adresse?",
+    "answers": ["Eine E-Mail-Adresse", "Eine eindeutige Netzwerkadresse", "Eine Telefonnummer", "Eine Postadresse"],
+    "correctAnswer": 1,
+    "explanation": "Eine IP-Adresse ist eine eindeutige Adresse zur Identifikation eines Geräts im Netzwerk."
+  },
+  {
+    "question": "Was bedeutet SSD?",
+    "answers": ["Super Speed Drive", "Solid State Drive", "System Storage Device", "Standard Storage Drive"],
+    "correctAnswer": 1,
+    "explanation": "SSD steht für Solid State Drive, eine Festplatte ohne bewegliche Teile."
+  },
+  {
+    "question": "Was ist Docker?",
+    "answers": ["Ein Spiel", "Eine Containerisierungsplattform", "Ein Betriebssystem", "Eine Programmiersprache"],
+    "correctAnswer": 1,
+    "explanation": "Docker ist eine Plattform zur Containerisierung von Anwendungen."
+  },
+  {
+    "question": "Was ist ein Debugging?",
+    "answers": ["Viren erstellen", "Fehlersuche und -behebung", "Programmieren", "Datenlöschung"],
+    "correctAnswer": 1,
+    "explanation": "Debugging ist der Prozess der Fehlersuche und -behebung in Programmen."
+  },
+  {
+    "question": "Was bedeutet BIOS?",
+    "answers": ["Basic Input Output System", "Binary Input Output System", "Basic Internal Operating System", "Binary Internal Operating System"],
+    "correctAnswer": 0,
+    "explanation": "BIOS steht für Basic Input Output System, die Firmware eines Computers."
+  },
+  {
+    "question": "Was ist Ransomware?",
+    "answers": ["Nützliche Software", "Erpressungssoftware", "Ein Spiel", "Ein Betriebssystem"],
+    "correctAnswer": 1,
+    "explanation": "Ransomware verschlüsselt Daten und fordert Lösegeld für deren Freigabe."
+  },
+  {
+    "question": "Was ist ein Framework?",
+    "answers": ["Ein Virus", "Ein Programmiergerüst", "Ein Betriebssystem", "Eine Festplatte"],
+    "correctAnswer": 1,
+    "explanation": "Ein Framework ist ein Programmiergerüst, das die Entwicklung erleichtert."
+  },
+  {
+    "question": "Was bedeutet DNS?",
+    "answers": ["Data Name System", "Domain Name System", "Digital Name Service", "Domain Network System"],
+    "correctAnswer": 1,
+    "explanation": "DNS (Domain Name System) übersetzt Domainnamen in IP-Adressen."
+  },
+  {
+    "question": "Was ist Machine Learning?",
+    "answers": ["Ein Spiel", "Maschinelles Lernen durch KI", "Ein Betriebssystem", "Eine Hardware"],
+    "correctAnswer": 1,
+    "explanation": "Machine Learning ist ein Teilbereich der KI, bei dem Computer aus Daten lernen."
+  },
+  {
+    "question": "Was ist ein Betriebssystem?",
+    "answers": ["Eine Anwendung", "Die Grundsoftware eines Computers", "Ein Virus", "Eine Festplatte"],
+    "correctAnswer": 1,
+    "explanation": "Ein Betriebssystem verwaltet Hardware und Software eines Computers."
+  },
+  {
+    "question": "Was bedeutet SSH?",
+    "answers": ["Super Secure Host", "Secure Shell", "System Security Host", "Safe Shell Host"],
+    "correctAnswer": 1,
+    "explanation": "SSH (Secure Shell) ist ein Protokoll für sichere Netzwerkverbindungen."
+  },
+  {
+    "question": "Was ist ein Trojaner?",
+    "answers": ["Ein nützliches Programm", "Schadsoftware getarnt als nützliche Software", "Ein Betriebssystem", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Ein Trojaner ist Schadsoftware, die sich als harmlose Software tarnt."
+  },
+  {
+    "question": "Was ist NoSQL?",
+    "answers": ["Eine Programmiersprache", "Ein nicht-relationales Datenbanksystem", "Ein Betriebssystem", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "NoSQL bezeichnet Datenbanken, die nicht das relationale Modell verwenden."
+  },
+  {
+    "question": "Was bedeutet GPU?",
+    "answers": ["General Processing Unit", "Graphics Processing Unit", "Global Processing Unit", "Game Processing Unit"],
+    "correctAnswer": 1,
+    "explanation": "GPU steht für Graphics Processing Unit, der Grafikprozessor."
+  },
+  {
+    "question": "Was ist Kubernetes?",
+    "answers": ["Eine Programmiersprache", "Ein Container-Orchestrierungssystem", "Ein Betriebssystem", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Kubernetes ist ein System zur Verwaltung containerisierter Anwendungen."
+  },
+  {
+    "question": "Was ist ein Bug Bounty?",
+    "answers": ["Ein Spiel", "Belohnung für das Finden von Sicherheitslücken", "Ein Virus", "Ein Programm"],
+    "correctAnswer": 1,
+    "explanation": "Bug Bounty Programme belohnen Personen, die Sicherheitslücken finden und melden."
+  },
+  {
+    "question": "Was bedeutet CMS?",
+    "answers": ["Computer Management System", "Content Management System", "Central Management System", "Creative Management System"],
+    "correctAnswer": 1,
+    "explanation": "CMS steht für Content Management System zur Verwaltung von Inhalten."
+  },
+  {
+    "question": "Was ist Quantum Computing?",
+    "answers": ["Normales Rechnen", "Rechnen mit Quantenbits", "Ein Spiel", "Ein Betriebssystem"],
+    "correctAnswer": 1,
+    "explanation": "Quantum Computing nutzt Quantenmechanik für extrem leistungsfähige Berechnungen."
+  },
+  {
+    "question": "Was ist ein Load Balancer?",
+    "answers": ["Ein Virus", "Ein System zur Lastverteilung", "Ein Betriebssystem", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Ein Load Balancer verteilt Anfragen auf mehrere Server für bessere Performance."
+  },
+  {
+    "question": "Was bedeutet DevOps?",
+    "answers": ["Development Operations", "Device Operations", "Developer Optimization", "Design Operations"],
+    "correctAnswer": 0,
+    "explanation": "DevOps kombiniert Softwareentwicklung (Development) und IT-Betrieb (Operations)."
+  },
+  {
+    "question": "Was ist ein Webhook?",
+    "answers": ["Ein Virus", "Ein automatischer HTTP-Callback", "Ein Browser", "Eine Festplatte"],
+    "correctAnswer": 1,
+    "explanation": "Ein Webhook ist ein HTTP-Callback, der automatisch bei bestimmten Events ausgelöst wird."
+  },
+  {
+    "question": "Was ist Agile?",
+    "answers": ["Ein Betriebssystem", "Eine Projektmanagement-Methode", "Eine Programmiersprache", "Ein Virus"],
+    "correctAnswer": 1,
+    "explanation": "Agile ist eine flexible Methode der Softwareentwicklung und des Projektmanagements."
+  },
+  {
+    "question": "Was bedeutet REST API?",
+    "answers": ["Representational State Transfer", "Remote State Transfer", "Real State Transfer", "Reliable State Transfer"],
+    "correctAnswer": 0,
+    "explanation": "REST (Representational State Transfer) ist ein Architekturstil für Web-APIs."
+  },
+  {
+    "question": "Was ist ein CDN?",
+    "answers": ["Computer Data Network", "Content Delivery Network", "Central Data Network", "Creative Design Network"],
+    "correctAnswer": 1,
+    "explanation": "Ein CDN ist ein Netzwerk zur schnellen Auslieferung von Webinhalten."
+  },
+  {
+    "question": "Was ist Pair Programming?",
+    "answers": ["Programmieren mit zwei Computern", "Zwei Entwickler arbeiten gemeinsam an einem Code", "Ein Spiel", "Ein Betriebssystem"],
+    "correctAnswer": 1,
+    "explanation": "Beim Pair Programming arbeiten zwei Entwickler gleichzeitig an demselben Code."
+  },
+  {
+    "question": "Was bedeutet OOP?",
+    "answers": ["Object Oriented Programming", "Online Operating Program", "Open Object Platform", "Operating Object Protocol"],
+    "correctAnswer": 0,
+    "explanation": "OOP steht für Object Oriented Programming (Objektorientierte Programmierung)."
+  },
+  {
+    "question": "Was ist TypeScript?",
+    "answers": ["Ein Betriebssystem", "Eine typsichere Erweiterung von JavaScript", "Ein Browser", "Eine Datenbank"],
+    "correctAnswer": 1,
+    "explanation": "TypeScript ist eine typsichere Programmiersprache, die zu JavaScript kompiliert wird."
+  },
+  {
+    "question": "Was ist MongoDB?",
+    "answers": ["Eine SQL-Datenbank", "Eine NoSQL-Datenbank", "Eine Programmiersprache", "Ein Betriebssystem"],
+    "correctAnswer": 1,
+    "explanation": "MongoDB ist eine dokumentenorientierte NoSQL-Datenbank."
+  },
+  {
+    "question": "Was bedeutet CRUD?",
+    "answers": ["Create Read Update Delete", "Create Remove Update Deploy", "Copy Read Upload Delete", "Create Restore Update Deploy"],
+    "correctAnswer": 0,
+    "explanation": "CRUD steht für die grundlegenden Datenbankoperationen: Create, Read, Update, Delete."
+  },
+  {
+    "question": "Was ist React?",
+    "answers": ["Ein Betriebssystem", "Eine JavaScript-Bibliothek für Benutzeroberflächen", "Eine Datenbank", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "React ist eine JavaScript-Bibliothek von Facebook zur Erstellung von Benutzeroberflächen."
+  },
+  {
+    "question": "Was ist ein Regex?",
+    "answers": ["Ein Virus", "Ein regulärer Ausdruck für Textmuster", "Ein Betriebssystem", "Eine Festplatte"],
+    "correctAnswer": 1,
+    "explanation": "Regex (Regular Expression) ist ein Muster zur Suche und Manipulation von Text."
+  },
+  {
+    "question": "Was bedeutet IDE?",
+    "answers": ["Internet Development Environment", "Integrated Development Environment", "Interactive Design Environment", "Internal Development Environment"],
+    "correctAnswer": 1,
+    "explanation": "IDE steht für Integrated Development Environment, eine Entwicklungsumgebung."
+  },
+  {
+    "question": "Was ist Node.js?",
+    "answers": ["Ein Browser", "Eine JavaScript-Laufzeitumgebung", "Ein Betriebssystem", "Eine Datenbank"],
+    "correctAnswer": 1,
+    "explanation": "Node.js ist eine JavaScript-Laufzeitumgebung für serverseitige Anwendungen."
+  },
+  {
+    "question": "Was ist ein Stack Overflow?",
+    "answers": ["Eine Programmier-Community", "Ein Speicherfehler", "Ein Betriebssystem", "Ein Virus"],
+    "correctAnswer": 1,
+    "explanation": "Stack Overflow ist ein Speicherfehler, wenn der Stack voll läuft (auch eine beliebte Entwickler-Website)."
+  },
+  {
+    "question": "Was bedeutet MVC?",
+    "answers": ["Model View Controller", "Main Visual Component", "Master View Control", "Multiple View Container"],
+    "correctAnswer": 0,
+    "explanation": "MVC ist ein Architekturmuster: Model-View-Controller."
+  },
+  {
+    "question": "Was ist GraphQL?",
+    "answers": ["Eine Datenbank", "Eine Abfragesprache für APIs", "Ein Betriebssystem", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "GraphQL ist eine Abfragesprache für APIs, entwickelt von Facebook."
+  },
+  {
+    "question": "Was ist ein Hash?",
+    "answers": ["Ein Virus", "Eine eindeutige Prüfsumme", "Ein Betriebssystem", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Ein Hash ist eine kryptographische Prüfsumme zur Datenintegrität."
+  },
+  {
+    "question": "Was bedeutet CI/CD?",
+    "answers": ["Computer Integration/Deployment", "Continuous Integration/Continuous Deployment", "Central Integration/Delivery", "Code Integration/Development"],
+    "correctAnswer": 1,
+    "explanation": "CI/CD steht für Continuous Integration und Continuous Deployment."
+  },
+  {
+    "question": "Was ist Big Data?",
+    "answers": ["Große Festplatten", "Sehr große Datenmengen", "Ein Betriebssystem", "Ein Programm"],
+    "correctAnswer": 1,
+    "explanation": "Big Data bezeichnet extrem große Datenmengen, die spezielle Verarbeitung erfordern."
+  },
+  {
+    "question": "Was ist Scrum?",
+    "answers": ["Eine Programmiersprache", "Ein agiles Framework für Projektmanagement", "Ein Betriebssystem", "Ein Virus"],
+    "correctAnswer": 1,
+    "explanation": "Scrum ist ein agiles Framework für die Entwicklung und das Management komplexer Produkte."
+  },
+  {
+    "question": "Was ist Redis?",
+    "answers": ["Ein Betriebssystem", "Ein In-Memory-Datenbanksystem", "Ein Browser", "Eine Programmiersprache"],
+    "correctAnswer": 1,
+    "explanation": "Redis ist eine In-Memory-Datenbank für schnellen Datenzugriff."
+  },
+  {
+    "question": "Was bedeutet Refactoring?",
+    "answers": ["Code löschen", "Code verbessern ohne Funktionalität zu ändern", "Neuen Code schreiben", "Code kopieren"],
+    "correctAnswer": 1,
+    "explanation": "Refactoring ist die Verbesserung der Code-Struktur ohne Änderung der Funktionalität."
+  },
+  {
+    "question": "Was ist WebAssembly?",
+    "answers": ["Eine Programmiersprache", "Ein binäres Format für Web-Performance", "Ein Browser", "Ein Betriebssystem"],
+    "correctAnswer": 1,
+    "explanation": "WebAssembly ist ein binäres Instruktionsformat für bessere Web-Performance."
+  },
+  {
+    "question": "Was ist ein Microservice?",
+    "answers": ["Ein kleines Programm", "Eine Architektur aus unabhängigen Diensten", "Ein Virus", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Microservices sind eine Architektur aus kleinen, unabhängigen Diensten."
+  },
+  {
+    "question": "Was bedeutet Deployment?",
+    "answers": ["Code schreiben", "Software in Produktion bringen", "Code testen", "Code löschen"],
+    "correctAnswer": 1,
+    "explanation": "Deployment ist der Prozess, Software in eine Produktionsumgebung zu überführen."
+  },
+  {
+    "question": "Was ist Vue.js?",
+    "answers": ["Ein Betriebssystem", "Ein JavaScript-Framework", "Eine Datenbank", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Vue.js ist ein progressives JavaScript-Framework für Benutzeroberflächen."
+  },
+  {
+    "question": "Was ist ein Repository?",
+    "answers": ["Ein Virus", "Ein Speicherort für Code", "Ein Browser", "Ein Betriebssystem"],
+    "correctAnswer": 1,
+    "explanation": "Ein Repository ist ein Speicherort für Quellcode und dessen Versionsverlauf."
+  },
+  {
+    "question": "Was bedeutet TDD?",
+    "answers": ["Test Driven Development", "Total Data Deployment", "Technical Design Document", "Time Driven Design"],
+    "correctAnswer": 0,
+    "explanation": "TDD steht für Test Driven Development, eine Entwicklungsmethode."
+  },
+  {
+    "question": "Was ist Bootstrap?",
+    "answers": ["Ein Betriebssystem", "Ein CSS-Framework", "Eine Programmiersprache", "Ein Browser"],
+    "correctAnswer": 1,
+    "explanation": "Bootstrap ist ein beliebtes CSS-Framework für responsive Webdesign."
+  }
+]
